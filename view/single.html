@@ -1,6 +1,6 @@
 <div ng-controller="SingleController">
     <div class="question">
-        <div><p>{{curItem.content.title}}</p></div>
+        <div><p>{{getCurItem().content.title}}</p></div>
         <br>
         <div class="divider">
             <img ng-src="{{curItem.content.img}}" alt="">
@@ -10,7 +10,7 @@
         <div class="answers">
             <ul>
                 <li style="margin-bottom: 10px" ng-repeat="(aOptionId, aOption) in curItem.content.options">
-                    <div class="btn btn-block" ng-click="showNextItem()" role="button">
+                    <div class="btn btn-block" ng-click="selectOption(aOptionId)" role="button">
                             {{aOption}}
                     </div>
                 </li>

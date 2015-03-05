@@ -1,0 +1,10 @@
+<div ng-controller="ReportController">
+    <ul>
+        <li style="margin-top: 10px" ng-repeat="oneItem in getAllItems()">
+            <div>
+                第{{$index+1}}个题目的得分是：{{oneItem.result}}
+            </div>
+        </li>
+    </ul>
+
+</div>

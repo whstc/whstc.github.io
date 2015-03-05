@@ -7,9 +7,12 @@ function ItemManager($scope,Item) {
     $scope.showerUrl = "begin";
     $scope.showNextItem = function (){
         curItem = Item.next();
-//        $scope.hasResult = false;
-        console.log("showNextItem::" + curItem.type);
-        $scope.showerUrl = curItem.type;
+        if(!!curItem){
+            console.log("showNextItem::" + curItem.type);
+            $scope.showerUrl = curItem.type;
+        }else{
+            $scope.showerUrl = "report";
+        }
     }
 
     $scope.hasResult = Item.hasResult;
@@ -23,12 +26,25 @@ function ItemManager($scope,Item) {
 function SingleController($scope,Item){
     $scope.curItem = Item.current();
 
+    $scope.getCurItem = function(){
+        $scope.curItem = Item.current();
+        return $scope.curItem;
+    }
+
     $scope.selectOption = function (optionId){
         console.log("selectOption :: " + optionId );
         $scope.selectId = optionId;
         Item.setResult(optionId);
+
+        $scope.showNextItem();
     }
 
+}
+
+function ReportController($scope, Item){
+    $scope.getAllItems = function(){
+        return Item.getAllItems();
+    }
 }
 
 function FillinController($scope,Item){
