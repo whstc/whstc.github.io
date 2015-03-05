@@ -1,14 +1,15 @@
 *{margin:0;padding:0;}
 *, *:after, *:before {box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;word-break: break-all;word-wrap: break-word;}
 
-body{/*font-family: Arial,Helvetica,sans-serif;*/font-family:Arial,"Microsoft Yahei";font-size:16px;color:#262626;background:#F3F3F3;-webkit-user-select:none;-webkit-text-size-adjust:none;position:relative;}
+html{font-family: "Helvetica Neue", Helvetica, STHeiTi, Arial, sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-size: 62.5%;}
+body{font-size:1.6rem;color:#262626;background:#F3F3F3;-webkit-user-select:none;-webkit-text-size-adjust:none;position:relative;}
 li{list-style:none;}
 i,em,b {font-style:normal;}
 a,a:visited{text-decoration:none;color:#333;}
 label {display:block;}
 img {border: 0 none;height: auto;max-width: 100%;vertical-align: middle;}
 table {background-color: transparent;border-collapse: collapse;border-spacing: 0;max-width: 100%;}
-button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle;border-radius:2px;}
+button,input,select,textarea{margin:0;font-size:1.6rem;vertical-align:middle;border-radius:2px;}
 input[type=text],textarea,select {border: 1px solid #d5d5d5;padding: 8px 10px;color:#333;}
 input:focus,textarea:focus {border-color:#F39C12;outline:0;}
 a,button,label,textarea,div,select,option,ul,li{-webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
@@ -87,18 +88,22 @@ footer {text-align:center;padding:10px 0;color:#666;}
 .overlay {position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:999;}
 .mask {background:url(img/survey/share.png);width:290px;height:212px;float:right;text-align:center;}
 .popup {position:fixed;left:20px;right:20px;top:45%;z-index:99;background:#fff;border-radius:4px;padding:10px;}
-.popup h3 {font-size:18px;font-weight:500;margin-bottom:15px;text-align:center;}
+.popup h3 {font-size:1.8rem;font-weight:500;margin-bottom:15px;text-align:center;}
 .popup p {position:relative;margin:0 15px;}
 .popup p b {position:absolute;width:40px;height:32px;background:url("img/survey/wxicon.png") repeat scroll 0 0 / cover;left:0;}
-.popup p span {float:left;margin-left:48px;font-size:14px;color:#666;}
-.popup p a {text-align:center;background:#42b917;font-size:18px;line-height:24px;}
+.popup p span {float:left;margin-left:48px;font-size:1.4rem;color:#666;}
+.popup p a {text-align:center;background:#42b917;font-size:1.8rem;line-height:24px;}
 .popup p  i {width:31px;height:25px;background:url("img/survey/wxiconwhite.png") repeat scroll 0 0 / cover;vertical-align:middle;margin-right:8px;display:inline-block;}
 
 #answer-overlay {display:none;top:50px;}
-#answer-overlay .loading {height : 40px;margin-top: -70px;margin-left: -20px;position: absolute;top:50%;left:50%;width : 40px;border : 2px solid #FFF;border-left-color : transparent;border-right-color : transparent;border-radius : 50%;animation : 1s linear 0s normal none infinite running spin;-webkit-animation : 1s linear 0s normal none infinite running spin;}
+#answer-overlay .loading {height : 40px;margin-top: -70px;margin-left: -20px;position: absolute;top:50%;left:50%;width : 40px;border : 2px solid #FFF;border-left-color : transparent;border-right-color : transparent;border-radius : 50%;animation : 1s linear 0s normal none infinite running spin;-webkit-animation : 1s linear 0s normal none infinite running spin;-moz-animation : 1s linear 0s normal none infinite running spin;}
 @-webkit-keyframes spin {
     0% {-webkit-transform : rotate(0deg);}
     100% {-webkit-transform : rotate(360deg);}
+}
+@-moz-keyframes spin {
+    0% {transform : rotate(0deg);}
+    100% {transform : rotate(360deg);}
 }
 @keyframes spin {
     0% {transform : rotate(0deg);}

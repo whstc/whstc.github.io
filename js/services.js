@@ -7,6 +7,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
           type: "single",
           content: {
               title : "What did Baby Bear ask Mother Bear?",
+              img:"image/tian_test.jpg",
               options: {
                 a0 : "Will you make my breakfast?",
                 b1 : "Who makes honey?",
