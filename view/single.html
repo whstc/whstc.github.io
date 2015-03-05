@@ -1,6 +1,6 @@
 <div ng-controller="SingleController">
     <div class="question">
-        <div><p>{{getCurItem().content.title}}</p></div>
+        <div>Q{{getCurItem().index}}: {{getCurItem().content.title}}</div>
         <br>
         <div class="divider">
             <img ng-src="{{curItem.content.img}}" alt="">

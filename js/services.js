@@ -363,7 +363,9 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
 
             this.hasResult = false;
             this.notifyObservers();
-            return allItems[itemIdex];
+            nextItem = allItems[itemIdex];
+            nextItem.index = itemIdex + 1;
+            return nextItem;
         },
         current : function(){
             return allItems[itemIdex];
