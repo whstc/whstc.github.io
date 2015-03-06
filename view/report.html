@@ -1,10 +1,23 @@
 <div ng-controller="ReportController">
-    <ul>
-        <li style="margin-top: 10px" ng-repeat="oneItem in getAllItems()">
-            <div>
-                第{{$index+1}}个题目的得分是：{{oneItem.result}}
-            </div>
-        </li>
-    </ul>
+    <!--<ul>-->
+        <!--<li style="margin-top: 10px" ng-repeat="oneItem in getAllSortedItems()">-->
+            <!--<div>-->
+                <!--第{{$index+1}}个题目{{oneItem.id}}的得分是：{{oneItem.result}}-->
+            <!--</div>-->
+        <!--</li>-->
+    <!--</ul>-->
 
+    <h3>您的性格优势为：</h3>
+    <p ng-repeat="index in [0,1,2]">
+        {{index + 1}}  <b>{{getAllSortedItems()[index].describe.name}}:</b><br> {{getAllSortedItems()[index].describe.content}}
+    </p>
+
+    <br>
+
+    <p>
+        此外您其他的优势性格包括：
+        <b>{{getAllSortedItems()[4].describe.name}}</b>、
+        <b>{{getAllSortedItems()[5].describe.name}}</b>、
+        <b>{{getAllSortedItems()[6].describe.name}}</b>
+    </p>
 </div>

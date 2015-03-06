@@ -42,8 +42,8 @@ function SingleController($scope,Item){
 }
 
 function ReportController($scope, Item){
-    $scope.getAllItems = function(){
-        return Item.getAllItems();
+    $scope.getAllSortedItems = function(){
+        return  _.sortBy(Item.getAllItems(), function(oneItem){return -oneItem.result});
     }
 }
 
