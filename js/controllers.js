@@ -15,6 +15,11 @@ function ItemManager($scope,Item) {
         }
     }
 
+    $scope.showBeforeItem = function(){
+        curItem = Item.before();
+        $scope.showerUrl = curItem.type;
+    }
+
     $scope.hasResult = Item.hasResult;
     Item.registerObserverCallback(function(){
         $scope.hasResult = Item.hasResult;
@@ -37,6 +42,10 @@ function SingleController($scope,Item){
         Item.setResult(optionId);
 
         $scope.showNextItem();
+    }
+
+    $scope.hasSelected = function() {
+        return Item.current.result && Item.current.result  === Item.id;
     }
 
 }

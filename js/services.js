@@ -458,7 +458,46 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
                 content:"对生活的意义，对更高的目标拥有坚定一致的信念，并能将这种信仰付诸实"
             }
         }
-    ]
+    ];
+
+    allItems = [
+        {
+            id : 1,
+            type: "single",
+            content: {
+                title : "当你有机会去做新奇或陌生的事情的时候，你____表现出了创造力和独创性。",
+                img:"image/tian_test.jpg",
+                options: {
+                    1 : "11a",
+                    2 : "11b",
+                    3 : "11c",
+                    4 : "11d",
+                    5 : "11e"
+                }
+            },
+            describe:{
+                name:"创造力",
+                content:"运用新颖、富有成效的方式使思维更加概念化；体现在做事的方式上"
+            }
+        },
+        {id : 2,
+            type: "single",
+            content: {
+                title : "当你有机会去探索新事物或做一些不同的事情的时候，你_____表现出了好奇心或兴趣。",
+                img:"image/tian_test.jpg",
+                options: {
+                    1 : "22a",
+                    2 : "22b",
+                    3 : "22c",
+                    4 : "22d",
+                    5 : "22e"
+                }
+            },
+            describe:{
+                name:"好奇心",
+                content:"基于自己的兴趣爱好进行的活动；确定目标，开始探索"
+            }
+        }];
 
 
 
@@ -478,6 +517,21 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             itemIdex ++;
             if(itemIdex > allItems.length){
                 itemIdex = allItems.length;
+            }
+
+            this.hasResult = false;
+            this.notifyObservers();
+            nextItem = allItems[itemIdex];
+            if(nextItem){
+                nextItem.index = itemIdex + 1;
+            }
+
+            return nextItem;
+        },
+        before: function () {
+            itemIdex --;
+            if(itemIdex< 0){
+                itemIdex = 0;
             }
 
             this.hasResult = false;

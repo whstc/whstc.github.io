@@ -1,6 +1,11 @@
 <div ng-controller="SingleController">
     <div class="question">
-        <div>Q{{getCurItem().index}}: {{getCurItem().content.title}}</div>
+        <div>
+            <span>Q{{getCurItem().index}}: </span>
+
+            <button ng-click="showBeforeItem()">上一个</button>
+            <button ng-click="showNextItem()">下一个</button>
+        </div>
         <br>
         <div class="divider">
             <img ng-src="{{curItem.content.img}}" alt="">
@@ -10,13 +15,15 @@
         <div class="answers">
             <ul>
                 <li style="margin-bottom: 20px" ng-repeat="(aOptionId, aOption) in curItem.content.options">
-                    <div class="btn btn-block" ng-click="selectOption(aOptionId)" role="button">
+                    <div class="btn btn-block" ng-class="{option_selected:hasSelected()}" ng-click="selectOption(aOptionId)" role="button">
                             {{aOption}}
                     </div>
                 </li>
             </ul>
             <div class="clear"></div>
         </div>
+
+
     </div>
 
 </div>
