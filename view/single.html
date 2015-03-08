@@ -1,10 +1,7 @@
 <div ng-controller="SingleController">
     <div class="question">
         <div>
-            <span>Q{{getCurItem().index}}: </span>
-
-            <button ng-click="showBeforeItem()">上一个</button>
-            <button ng-click="showNextItem()">下一个</button>
+            <span>Q{{getCurItem().index}}: {{getCurItem().content.title}}</span>
         </div>
         <br>
         <div class="divider">
@@ -22,6 +19,12 @@
             </ul>
             <div class="clear"></div>
         </div>
+
+        <div style="padding-top:50px">
+            <button ng-click="showBeforeItem()">上一个</button>
+            <button ng-show="!!getCurItem().result" ng-click="showNextItem()">下一个</button>
+        </div>
+
 
 
     </div>
