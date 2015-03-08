@@ -20,8 +20,10 @@ a.btn{color:#fff;display:inline-block;text-align:center;}
     background: #B6B1A9;
 }
 .option_selected {
-    background: #B6B1A9; !important;
+    background: #B6B1A9; padding:10px;border:0 none;color:#fff;display:inline-block;text-align:center;border-radius:4px;
 }
+ul{list-style-type:none; margin:0;width:100%; }
+ul li{ width:80px; float:left;}
 
 select {width:100%;height:40px;}
 .input-block {width: 100%;}

@@ -44,8 +44,9 @@ function SingleController($scope,Item){
         $scope.showNextItem();
     }
 
-    $scope.hasSelected = function() {
-        return Item.current.result && Item.current.result  === Item.id;
+    $scope.hasSelected = function(optionId) {
+       console.log(Item.current().result);
+        return !!Item.current().result && Item.current().result  === optionId;
     }
 
 }
