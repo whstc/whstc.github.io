@@ -122,4 +122,4 @@ footer {text-align:center;padding:10px 0;color:#666;}
     content: "\e017";
 }
 ul{list-style-type:none; margin:0;width:100%; }
-ul li{ width:50px; float:left;}
+ul li{ width:50px; float:left; padding-left: 5px}
