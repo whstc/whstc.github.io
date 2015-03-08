@@ -197,7 +197,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "在你的日常生活中，你____表现出你对别人的仁慈或宽宏。",
-                img:"image/beiyong.png",
+                img:"image/11.png",
                 options: {
                     1 : "罕有",
                     2 : "偶然",
@@ -216,7 +216,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "当别人需要你去理解他，并做出适当回应的时候，你____表现出社交智慧或社交技能。",
-                img:"image/beiyong.png",
+                img:"image/12.png",
                 options: {
                     1 : "罕有",
                     2 : "偶然",
