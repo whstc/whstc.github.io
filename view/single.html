@@ -13,7 +13,9 @@
             <ul>
                 <li style="margin-bottom: 20px" ng-repeat="(aOptionId, aOption) in curItem.content.options">
                     <div class=" btn-block" ng-class="{true:'option_selected', false:'btn'}[hasSelected(aOptionId)]" ng-click="selectOption(aOptionId)" role="button">
-                            {{aOption}}
+                            <!--{{aOption}}-->
+                        <img ng-src="{{aOption}}"/>
+
                     </div>
                 </li>
             </ul>
