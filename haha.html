@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        p {
+            color: yellow;
+        }
+        p:active {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+<p>测试Active文本</p>
+</body>
+<script>
+    var p=document.getElementsByTagName('p');
+    for(var i=0;i<p.length;i++){
+        p[i].addEventListener('touchstart',function(){},false);
+    };
+</script>
+</html>
