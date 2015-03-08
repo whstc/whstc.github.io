@@ -55,6 +55,10 @@ function ReportController($scope, Item){
     $scope.getAllSortedItems = function(){
         return  _.sortBy(Item.getAllItems(), function(oneItem){return -oneItem.result});
     }
+
+    $scope.getRandom = function(){
+      return Math.floor(Math.random()*20+70);
+    }
 }
 
 function FillinController($scope,Item){

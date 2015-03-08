@@ -7,17 +7,26 @@
         <!--</li>-->
     <!--</ul>-->
 
-    <h3>您的性格优势为：</h3>
-    <p ng-repeat="index in [0,1,2]">
-        {{index + 1}}  <b>{{getAllSortedItems()[index].describe.name}}:</b><br> {{getAllSortedItems()[index].describe.content}}
-    </p>
+    <div class="tian_report">
+        <h3>您的性格优势为：</h3>
+        <br>
+        <p ng-repeat="index in [0,1,2]">
+            {{index + 1}}  <b>{{getAllSortedItems()[index].describe.name}}:</b><br> {{getAllSortedItems()[index].describe.content}}
+            <br><br>
+        </p>
 
-    <br>
+        <br>
 
-    <p>
-        此外您其他的优势性格包括：
-        <b>{{getAllSortedItems()[4].describe.name}}</b>、
-        <b>{{getAllSortedItems()[5].describe.name}}</b>、
-        <b>{{getAllSortedItems()[6].describe.name}}</b>
-    </p>
+        <p>
+            此外您其他的优势性格包括：
+            <b>{{getAllSortedItems()[4].describe.name}}</b>、
+            <b>{{getAllSortedItems()[5].describe.name}}</b>、
+            <b>{{getAllSortedItems()[6].describe.name}}</b>
+        </p>
+        <br><br>
+        <h3>您比：</h3>
+        <p ng-repeat="index in [0,1,2]">
+            {{getRandom()}}%的人更有{{getAllSortedItems()[index].describe.name}}<br>
+        </p>
+    </div>
 </div>
