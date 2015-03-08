@@ -54,6 +54,12 @@
             $("#tianLogShower").html("信息打印到了console中");
         }
     </script>
+    <script>
+        var p=document.getElementsByTagName('div');
+        for(var i=0;i<p.length;i++){
+            p[i].addEventListener('touchstart',function(){},false);
+        };
+    </script>
 
 </head>
 <body ng-controller="ItemManager">
