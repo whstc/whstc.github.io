@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/lediaocha.css" afterPath="$PROJECT_DIR$/css/lediaocha.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/begin.html" afterPath="$PROJECT_DIR$/view/begin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/haha.html" afterPath="$PROJECT_DIR$/haha.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/single.html" afterPath="$PROJECT_DIR$/view/single.html" />
     </list>
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,8 +73,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.064516" vertical-offset="924" max-vertical-offset="1848">
-              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+            <state vertical-scroll-proportion="-10.129032" vertical-offset="962" max-vertical-offset="2046">
+              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="64" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -79,11 +82,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="haha.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haha.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.419354" vertical-offset="51" max-vertical-offset="616">
+              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="begin.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view/begin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.419354" vertical-offset="214" max-vertical-offset="726">
-              <caret line="23" column="44" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="44" />
+            <state vertical-scroll-proportion="-15.096774" vertical-offset="126" max-vertical-offset="726">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -101,11 +114,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lediaocha.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lediaocha.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/lediaocha.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71639043" vertical-offset="73" max-vertical-offset="3058">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="3058">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -121,11 +134,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="single.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/view/single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.032258" vertical-offset="249" max-vertical-offset="880">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.65625" vertical-offset="456" max-vertical-offset="1056">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -158,11 +171,11 @@
         <option value="$PROJECT_DIR$/js/services.js" />
         <option value="$PROJECT_DIR$/js/controllers.js" />
         <option value="$PROJECT_DIR$/view/report.html" />
-        <option value="$PROJECT_DIR$/view/single.html" />
+        <option value="$PROJECT_DIR$/css/lediaocha.css" />
+        <option value="$PROJECT_DIR$/haha.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/view/begin.html" />
-        <option value="$PROJECT_DIR$/haha.html" />
-        <option value="$PROJECT_DIR$/css/lediaocha.css" />
+        <option value="$PROJECT_DIR$/view/single.html" />
       </list>
     </option>
   </component>
@@ -799,14 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.935484" vertical-offset="264" max-vertical-offset="814">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="981" max-vertical-offset="2376">
@@ -815,49 +820,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/view/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.935484" vertical-offset="264" max-vertical-offset="814">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/haha.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4296875" vertical-offset="0" max-vertical-offset="594">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state vertical-scroll-proportion="-10.419354" vertical-offset="51" max-vertical-offset="616">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/lediaocha.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="3058">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.064516" vertical-offset="924" max-vertical-offset="1848">
-          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        <state vertical-scroll-proportion="-10.129032" vertical-offset="962" max-vertical-offset="2046">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="64" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.032258" vertical-offset="249" max-vertical-offset="880">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/begin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.419354" vertical-offset="214" max-vertical-offset="726">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="44" />
+        <state vertical-scroll-proportion="-15.096774" vertical-offset="126" max-vertical-offset="726">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/lediaocha.css">
+    <entry file="file://$PROJECT_DIR$/view/single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71639043" vertical-offset="73" max-vertical-offset="3058">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
+        <state vertical-scroll-proportion="0.65625" vertical-offset="456" max-vertical-offset="1056">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
