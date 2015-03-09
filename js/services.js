@@ -330,7 +330,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "当你面对诱惑的时候，你____表现出审慎、谨慎或小心。",
-                img:"image/18.jpg",
+                img:"image/18.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -349,7 +349,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "当你需要控制情绪/渴望/冲动的时候，你____能够自我控制或自我调节。",
-                img:"image/19.jpg",
+                img:"image/19.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",

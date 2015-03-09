@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/19.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/12.png" afterPath="$PROJECT_DIR$/image/12.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/begin.html" afterPath="$PROJECT_DIR$/view/begin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/controllers.js" afterPath="$PROJECT_DIR$/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/services.js" afterPath="$PROJECT_DIR$/js/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,10 +87,8 @@
         <entry file="file://$PROJECT_DIR$/view/begin.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-12.967742" vertical-offset="38" max-vertical-offset="638">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -142,8 +138,8 @@
       <file leaf-file-name="services.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08576998" vertical-offset="7260" max-vertical-offset="11616">
-              <caret line="332" column="33" selection-start-line="332" selection-start-column="33" selection-end-line="332" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.9005848" vertical-offset="7260" max-vertical-offset="11616">
+              <caret line="351" column="33" selection-start-line="351" selection-start-column="33" selection-end-line="351" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -482,9 +478,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="572">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -870,17 +864,15 @@
     <entry file="file://$PROJECT_DIR$/view/begin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.967742" vertical-offset="38" max-vertical-offset="638">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08576998" vertical-offset="7260" max-vertical-offset="11616">
-          <caret line="332" column="33" selection-start-line="332" selection-start-column="33" selection-end-line="332" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.9005848" vertical-offset="7260" max-vertical-offset="11616">
+          <caret line="351" column="33" selection-start-line="351" selection-start-column="33" selection-end-line="351" selection-end-column="33" />
           <folding />
         </state>
       </provider>
