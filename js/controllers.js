@@ -37,7 +37,17 @@ function SingleController($scope,Item){
     }
 
     $scope.getNextTempItem = function(){
-      return Item.getAllItems()[Item.current().index].content.img;
+        var cItem = Item.current();
+        if(!cItem){
+            return "";
+        }
+
+        var oneItem = Item.getAllItems()[Item.current().index];
+        if(!!oneItem){
+            return oneItem.content.img;
+        }
+
+      return "";
     }
 
     $scope.selectOption = function (optionId){
