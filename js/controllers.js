@@ -28,7 +28,7 @@ function ItemManager($scope,Item) {
 
 }
 
-function SingleController($scope,Item,$timeout){
+function SingleController($scope,Item){
     $scope.curItem = Item.current();
 
     $scope.getCurItem = function(){
@@ -36,12 +36,18 @@ function SingleController($scope,Item,$timeout){
         return $scope.curItem;
     }
 
+    $scope.getNextTempItem = function(){
+      return Item.getAllItems()[Item.current().index].content.img;
+    }
+
     $scope.selectOption = function (optionId){
         console.log("selectOption :: " + optionId );
         $scope.selectId = optionId;
         Item.setResult(optionId);
 
-        $timeout($scope.showNextItem(),1000);
+
+
+        $scope.showNextItem();
 
     }
 
