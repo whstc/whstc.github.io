@@ -22,9 +22,9 @@ a.btn{color:#fff;display:inline-block;text-align:center;}
 .btn:active {
     -webkit-appearance:none;  background: #B6B1A9;
 }
-div:active {
-    -webkit-appearance:none;  background: #B6B1A9;
-}
+/*div:active {*/
+    /*-webkit-appearance:none;  background: #B6B1A9;*/
+/*}*/
 
 .option_selected {
     background: #B6B1A9; /*padding:5px;*/border:0 none;color:#fff;display:inline-block;text-align:center;border-radius:4px;

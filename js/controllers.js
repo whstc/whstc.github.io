@@ -28,7 +28,7 @@ function ItemManager($scope,Item) {
 
 }
 
-function SingleController($scope,Item){
+function SingleController($scope,Item,$timeout){
     $scope.curItem = Item.current();
 
     $scope.getCurItem = function(){
@@ -41,7 +41,8 @@ function SingleController($scope,Item){
         $scope.selectId = optionId;
         Item.setResult(optionId);
 
-        $scope.showNextItem();
+        $timeout($scope.showNextItem(),1000);
+
     }
 
     $scope.hasSelected = function(optionId) {
