@@ -8,7 +8,6 @@ function ItemManager($scope,Item) {
     $scope.showNextItem = function (){
         curItem = Item.next();
         if(!!curItem){
-            console.log("showNextItem::" + curItem.type);
             $scope.showerUrl = curItem.type;
         }else{
             $scope.showerUrl = "report";
