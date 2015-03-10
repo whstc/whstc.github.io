@@ -1,4 +1,4 @@
-<div ng-controller="ReportController">
+<div ng-controller="ReportController" style="background: url('image/backgroud.jpg');background-repeat: repeat-y;height: 800px;">
     <!--<ul>-->
         <!--<li style="margin-top: 10px" ng-repeat="oneItem in getAllSortedItems()">-->
             <!--<div>-->
@@ -25,8 +25,27 @@
         </p>
         <br><br>
         <h3>您比：</h3>
-        <p ng-repeat="index in [0,1,2]">
-            {{getRandom()}}%的人更有{{getAllSortedItems()[index].describe.name}}<br>
-        </p>
+
+        <div ng-repeat="index in [0,1,2]">
+            <div class="chart_outer chart_tip">
+                <div ng-style="style(index)" id="MISD">{{getMun(index)}}</div>
+            </div>
+            <br>
+
+            <!--{{getRandom()}}%的人更有{{getAllSortedItems()[index].describe.name}}<br>-->
+        </div>
     </div>
+
+    <br>
+    <br>
+    <table>
+        <tbody>
+        <tr class="firstRow">
+            <td width="50%" valign="top">
+                <img src="image/zhuanjia.jpg">
+            </td>
+            <td width="50%" valign="top">专家介绍</td>
+        </tr>
+        </tbody>
+    </table>
 </div>

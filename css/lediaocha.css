@@ -131,4 +131,9 @@ footer {text-align:center;padding:10px 0;color:#666;}
 ul{list-style-type:none; margin:0;width:100%; }
 ul li{ width:55px; float:left; padding-left: 2px}
 
-.tian_report{margin: 10px; padding: 10px}
+.tian_report{padding: 10px}
+
+div.chart_outer{ background-color:#bfc9d1;  padding: 0px;  margin:0 10px;  width: 284px;  height: 23px; border-radius:30px; overflow:hidden; background-image:url(../image/report_progress1.jpg); background-repeat:no-repeat;}
+.chart_tip{ float:left; font-family:"微软雅黑"; font-size:14px;}
+
+.chart_outer div {  background-color: #1071b9;  padding: 0px;  margin: 0px;   height:23px; background-image:url(../image/report_progress.jpg); background-position:right; background-repeat:no-repeat;}

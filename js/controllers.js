@@ -75,6 +75,23 @@ function ReportController($scope, Item){
     $scope.getRandom = function(){
       return Math.floor(Math.random()*20+70);
     }
+
+    //$scope.getMyStyle = (function(){
+    //    //return "width: " +  $scope.getRandom()+ "%"  ;
+    //    return "{width: 30%}"  ;
+    //});
+
+    $scope.mun = [Math.floor(Math.random()*20+70),Math.floor(Math.random()*20+70),Math.floor(Math.random()*20+70)];
+    $scope.getMun = function(index){
+        return $scope.mun[index];
+    }
+
+    $scope.style = function(index){
+        //var mun = Math.floor(Math.random()*20+70);
+        //$scope.mun[index] = mun;
+        return {width: $scope.mun[index] + '%'};
+    } //{width: 100 + 'px'};
+
 }
 
 function FillinController($scope,Item){
