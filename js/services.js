@@ -1,7 +1,7 @@
 var module = angular.module("displayitem.service",[]);
 
 module.service( 'Item', [ '$rootScope', function( $rootScope ) {
-    var itemIdex = -1;
+    var itemIdex = 24;
     var allItems = [
         {
             id : 1,
