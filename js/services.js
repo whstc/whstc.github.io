@@ -235,7 +235,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "作为一个成员，当你的团队需要你的帮助和忠诚的时候，你____表现出团队精神。",
-                img:"image/beiyong.png",
+                img:"image/3.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -254,7 +254,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "当你能对两个以上的人实施一些权力或影响力的时候，你____表现出公平。",
-                img:"image/beiyong.png",
+                img:"image/5.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -273,7 +273,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "作为一个成员，当你在的团队需要帮助的时候，你____表现出领导能力。",
-                img:"image/beiyong.png",
+                img:"image/7.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -292,7 +292,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "当你被别人伤害的时候，你____表现出宽恕或仁慈。",
-                img:"image/beiyong.png",
+                img:"image/9.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -311,7 +311,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "在你的日常生活中，你____表现出谦逊或谦卑。",
-                img:"image/beiyong.png",
+                img:"image/11.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -368,7 +368,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "在日常生活中，你____表现出对于美丽和卓越的欣赏或敬畏。",
-                img:"image/beiyong.png",
+                img:"image/4.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -387,7 +387,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "当别人给予你帮助的时候，你____表现出感恩或感激。",
-                img:"image/beiyong.png",
+                img:"image/6.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -406,7 +406,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "当你遇到挫折或失败的时候，你____表现出希望或乐观精神。",
-                img:"image/beiyong.png",
+                img:"image/8.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -425,7 +425,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "在日常生活中，你____表现出调皮和幽默。",
-                img:"image/beiyong.png",
+                img:"image/10.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",
@@ -444,7 +444,7 @@ module.service( 'Item', [ '$rootScope', function( $rootScope ) {
             type: "single",
             content: {
                 title : "在日常生活中，你____表现出虔诚或精神灵性。",
-                img:"image/beiyong.png",
+                img:"image/9.png",
                 options: {
                     1 : "image/A.png",
                     2 : "image/B.png",

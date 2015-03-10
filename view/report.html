@@ -28,9 +28,9 @@
 
         <div ng-repeat="index in [0,1,2]">
             <div class="chart_outer chart_tip">
-                <div ng-style="style(index)" id="MISD">{{getMun(index)}}</div>
+                <div ng-style="style(index)" id="MISD"> &nbsp; {{getMun(index)}}%的人更有{{getAllSortedItems()[index].describe.name}}</div>
             </div>
-            <br>
+            <br><br>
 
             <!--{{getRandom()}}%的人更有{{getAllSortedItems()[index].describe.name}}<br>-->
         </div>
