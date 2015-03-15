@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/first.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/five.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/four.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/second.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/six.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/third.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/jdi.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/js/jdi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/index.html" afterPath="$PROJECT_DIR$/mobile/index.html" />
     </list>
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,8 +70,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8007663" vertical-offset="3212" max-vertical-offset="4840">
-              <caret line="165" column="21" selection-start-line="165" selection-start-column="21" selection-end-line="165" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.042145595" vertical-offset="3674" max-vertical-offset="4730">
+              <caret line="168" column="7" selection-start-line="168" selection-start-column="7" selection-end-line="168" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1233,8 +1222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8007663" vertical-offset="3212" max-vertical-offset="4840">
-          <caret line="165" column="21" selection-start-line="165" selection-start-column="21" selection-end-line="165" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.042145595" vertical-offset="3674" max-vertical-offset="4730">
+          <caret line="168" column="7" selection-start-line="168" selection-start-column="7" selection-end-line="168" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
