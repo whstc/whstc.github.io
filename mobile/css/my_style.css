@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+    background-color: #003399;
+}
+
+.my_nav{
+    height: 40px;
+    background-color: #e9e9e9;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+
+.my_nav img {
+    width:  28px;
+    height: 28px;
+}
+.my_nav .weixin{
+    margin-left: 16px;
+}
+.my_nav .weixin img{
+    margin-top: 6px;
+}
+
+.my_nav .logo{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+}
+.my_nav .logo img{
+    margin-top: 6px;
+}
+
+.my_nav .account img{
+    float: right;
+    margin-right: 16px;
+    margin-top: 6px;
+}
+
+
+.my_page{
+    margin-top:40px;
+    max-width: 900px;
+    margin-left: auto;margin-right: auto;
+}
+.my_page .info_img{
+    width: 100%; height: 100%;
+    margin-bottom: -5px;
+}
+
+.my_page .main-nav-list{
+    margin-left: -40px;
+}
+.my_page .main-nav-list li{
+    float: left;
+    padding: 15px 0px 10px 0px;
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+}
+.my_page .main-nav-list a{
+   width: 100%;
+    color: white;
+    font-weight: bold;
+}
+.my_page .main-nav-list span{
+    display: inline-block;
+    font-size: 12px;
+    width: 100%;
+}
+
+.share {
+    background-color: white;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+}
+.share .share-list{
+    padding-left: 0px;
+}
+.share .share-list li{
+    display: inline-block;
+
+}
+.share .share-list a img {
+   width: 33px;
+    height:33px;
+    padding-right: 20px;
+}
+
+.footer_navbar{
+    margin-left: -40px;
+    overflow: hidden;
+}
+.footer_navbar ul{
+    margin: 0px;
+}
+.footer_navbar ul li{
+    float: left;
+    padding: 15px 0px 10px 0px;
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+    border-top: 1px solid #99C4E4;
+
+    color: white;
+}
+.footer_navbar ul li a{
+   color: white;
+    display: inline-block;
+
+}
+.footer_navbar ul li a img{
+    width: 32px;
+    float: left;
+    padding-left: 10px;
+}
+.footer_navbar ul li a span{
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 20px;
+    line-height: 30px;
+}
+
+.footer_navbar ul li .policy{
+    text-align: center;
+    padding-right: 16px;
+}
+.footer_navbar ul li .copyright{
+    text-align: center;
+    font-size: small;
+}
