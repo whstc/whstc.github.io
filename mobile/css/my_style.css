@@ -46,6 +46,8 @@ body{
     margin-top:40px;
     max-width: 900px;
     margin-left: auto;margin-right: auto;
+
+    padding: 0px;
 }
 .my_page .info_img{
     width: 100%; height: 100%;
@@ -150,4 +152,34 @@ body{
     display: block;
     padding: 15px 0px 10px 0px;
 
+}
+
+/* 幸福定制VIP */
+.my_page .cases-list{
+    margin-left: 0px;
+    margin-bottom: -5px;
+    padding: 0px;
+}
+.my_page .cases-list li{
+    display: inline-block;
+    background-color: white;
+
+    margin-bottom: 5px;
+    text-align: center;
+}
+.my_page .cases-list li div{
+    text-align: center;
+    color: #000000;
+
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.my_page .cases-list li div img{
+    width: 100%;
+}
+.my_page .cases-list li p{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
 }
