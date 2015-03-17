@@ -101,6 +101,7 @@ body{
 .footer_navbar ul{
     margin: 0px;
 }
+
 .footer_navbar ul li{
     float: left;
     padding: 15px 0px 10px 0px;
@@ -111,6 +112,18 @@ body{
 
     color: white;
 }
+
+.footer_navbar ul .footer_navbar_li{
+    float: left;
+    padding: 15px 0px 10px 0px;
+    width: 50%;
+    display: inline-block;
+    text-align: left;
+    border-top: 1px solid #99C4E4;
+
+    color: white;
+}
+
 .footer_navbar ul li a{
    color: white;
     display: inline-block;
