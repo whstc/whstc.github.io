@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html itemscope="itemscope" itemtype="http://schema.org/Product" lang="en">
+<head>
+    <title>我们的团队 - 幸福创客</title>
+    <meta content="结合知识与科技,为人类打造更幸福、更健康的生活。"
+          name="description"/>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+    <meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" name="viewport"/>
+    <link rel="stylesheet" href="./css/my_style.css">
+
+    <link rel="stylesheet" href="./css/styles.css"/>
+
+    <script type="text/javascript" src="./js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="./js/jquery.glide.min.js"></script>
+</head>
+<body>
+<section class="content slider">
+    <section class="content-wrapper slides">
+        <article class="content_article content_article--fast slide" style="background-image: url('image/bg-simple.jpg')">
+            <!--<img src="image/bg-simple.jpg">-->
+        </article>
+        <article class="content_article content_article--simple slide"  style="background-image: url('image/bg-responsive.jpg')">
+            <!--<img src="image/bg-responsive.jpg">-->
+        </article>
+        <article class="content_article content_article--responsive slide"   style="background-image: url('image/bg-fast.jpg')">
+            <!--<img src="image/bg-fast.jpg">-->
+        </article>
+</section>
+    </section>
+
+<script>
+
+
+    var slides = $('.content_article-img');
+
+    var glide = $('.slider').glide({
+        arrowRightText: '>',
+        arrowLeftText: '<   ',
+        autoplay: false,
+        circular: false,
+        beforeTransition: function() {
+            $(slides).eq(-this.currentSlide).removeClass('fadeInUpBig').addClass('fadeOutDownBig');
+
+        },
+        afterTransition: function() {
+            $(slides).eq(-this.currentSlide).removeClass('fadeOutDownBig').addClass('fadeInUpBig');
+        }
+    });
+
+</script>
+</body>
+</html>
