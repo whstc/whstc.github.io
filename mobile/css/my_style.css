@@ -196,3 +196,56 @@ body{
     margin-left: 10px;
     margin-right: 10px;
 }
+
+
+/*登录页面*/
+.my_page .sub_head{
+   text-align: center;
+    color: white;
+}
+
+.my_page .cub_content{
+    padding: 16px;
+    background-color: white;
+}
+
+.my_page .login_email, .my_page .login_password{
+    padding: 12px;
+    -webkit-box-sizing: border-box;
+    width: 100%;
+    border: 0;
+    border: 1px solid;
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+
+    margin-left: 0px;
+    margin-top: 5px;
+}
+
+.my_page .submit{
+    width: 100%;
+    font-size: 14px;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 16px;
+    margin-top: 5px;
+    background-color: #003484;
+    color: white;
+    border: 0px;
+}
+
+.my_page .lianjie{
+    text-align: center;
+
+    width: 100%;
+    font-size: 14px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: 5px;
+    color: white;
+
+}
+.my_page .lianjie a{
+    display:inline-block;
+    text-decoration:none;
+}
