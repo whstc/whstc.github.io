@@ -149,7 +149,7 @@ body{
     display: inline-block;
 
 }
-.footer_navbar ul li a img{
+.footer_navbar ul li img{
     width: 32px;
     float: left;
     padding-left: 10px;
@@ -159,6 +159,17 @@ body{
     font-size: 14px;
     margin-left: 20px;
     line-height: 30px;
+}
+
+.footer_navbar select{
+    position: absolute;
+    top: 0;
+    left: 40px;
+    width: 100%;
+    min-height: 1.5em;
+    min-height: 100%;
+
+    opacity: 0;
 }
 
 .footer_navbar ul li .policy{

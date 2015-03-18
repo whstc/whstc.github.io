@@ -2,35 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/asia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/bae_system.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/chengjiu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/chuxin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/cisco.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/ernst_young.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/goback.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/gsk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/office.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/qizhi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/standard_chartered.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/thomson.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/unilever.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/us.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/xianqu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/zhencheng.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/zhuanxin.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/bootstrap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/custommade.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/second.png" afterPath="$PROJECT_DIR$/mobile/image/second.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/third.png" afterPath="$PROJECT_DIR$/mobile/image/third.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/welcome.png" afterPath="$PROJECT_DIR$/mobile/image/welcome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/aboutus.html" afterPath="$PROJECT_DIR$/mobile/aboutus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/hezuohuoban.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/lianluowomen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/zaixiankefu.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/index.html" afterPath="$PROJECT_DIR$/mobile/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/login.html" afterPath="$PROJECT_DIR$/mobile/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/css/my_style.css" afterPath="$PROJECT_DIR$/mobile/css/my_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/ourteam.html" afterPath="$PROJECT_DIR$/mobile/ourteam.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/css/styles.css" afterPath="$PROJECT_DIR$/mobile/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/used.html" afterPath="$PROJECT_DIR$/mobile/used.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="displayitem.iws" />
@@ -99,21 +76,21 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.967742" vertical-offset="1605" max-vertical-offset="2156">
-              <caret line="161" column="14" selection-start-line="82" selection-start-column="0" selection-end-line="161" selection-end-column="14" />
+            <state vertical-scroll-proportion="-11.32258" vertical-offset="2179" max-vertical-offset="3234">
+              <caret line="146" column="65" selection-start-line="146" selection-start-column="65" selection-end-line="146" selection-end-column="65" />
               <folding>
                 <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ourteam.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ourteam.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/ourteam.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40108892" vertical-offset="813" max-vertical-offset="4004">
-              <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+            <state vertical-scroll-proportion="-27.0" vertical-offset="263" max-vertical-offset="4004">
+              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -164,11 +141,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="my_style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/css/my_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3333333" vertical-offset="2848" max-vertical-offset="6842">
-              <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6831858" vertical-offset="3420" max-vertical-offset="7084">
+              <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -216,12 +193,12 @@
         <option value="$PROJECT_DIR$/mobile/about.html" />
         <option value="$PROJECT_DIR$/mobile/myindex.html" />
         <option value="$PROJECT_DIR$/mobile/login.html" />
-        <option value="$PROJECT_DIR$/mobile/index.html" />
         <option value="$PROJECT_DIR$/mobile/used.html" />
         <option value="$PROJECT_DIR$/mobile/aboutus.html" />
-        <option value="$PROJECT_DIR$/mobile/css/my_style.css" />
         <option value="$PROJECT_DIR$/mobile/css/styles.css" />
         <option value="$PROJECT_DIR$/mobile/ourteam.html" />
+        <option value="$PROJECT_DIR$/mobile/index.html" />
+        <option value="$PROJECT_DIR$/mobile/css/my_style.css" />
       </list>
     </option>
   </component>
@@ -308,7 +285,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -454,7 +431,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19624707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39968154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -502,7 +479,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19624707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39968154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -835,25 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.967742" vertical-offset="1605" max-vertical-offset="2156">
-          <caret line="161" column="14" selection-start-line="82" selection-start-column="0" selection-end-line="161" selection-end-column="14" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/css/my_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333" vertical-offset="2848" max-vertical-offset="6842">
-          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4708">
@@ -877,8 +835,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/ourteam.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40108892" vertical-offset="813" max-vertical-offset="4004">
-          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        <state vertical-scroll-proportion="-27.0" vertical-offset="263" max-vertical-offset="4004">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -887,6 +845,25 @@
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.32258" vertical-offset="2179" max-vertical-offset="3234">
+          <caret line="146" column="65" selection-start-line="146" selection-start-column="65" selection-end-line="146" selection-end-column="65" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/css/my_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6831858" vertical-offset="3420" max-vertical-offset="7084">
+          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
