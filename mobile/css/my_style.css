@@ -24,27 +24,38 @@ body{
 }
 
 .my_nav .logo{
+    margin: 0px;
+
     position: absolute;
     top: 0px;
     left: 0px;
     height: 40px;
     width: 100%;
     text-align: center;
+
+
 }
 .my_nav .logo img{
     margin-top: 6px;
 }
 
+.my_nav .account{
+
+}
+
 .my_nav .account img{
+    position:absolute;
     float: right;
-    margin-right: 16px;
+    right: 16px;
     margin-top: 6px;
+    z-index: 10;
+    overflow: auto;
 }
 
 
 .my_page{
     margin-top:40px;
-    max-width: 900px;
+    max-width: 640px;
     margin-left: auto;margin-right: auto;
 
     padding: 0px;
