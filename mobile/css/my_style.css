@@ -1,6 +1,14 @@
+@font-face
+{
+    font-family: myFirstFont;
+    src: url('../ttf/HIRAGINO SANS GB W3.OTF');
+}
+
 body{
     margin: 0px;
     background-color: #22aadd;
+
+    font-family:myFirstFont;
 }
 
 /*导航 */
