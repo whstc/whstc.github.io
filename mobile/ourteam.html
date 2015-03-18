@@ -14,24 +14,25 @@
     <script type="text/javascript" src="./js/jquery.glide.min.js"></script>
 </head>
 <body>
-<section class="content slider">
-    <section class="content-wrapper slides">
-        <article class="content_article content_article--fast slide" style="background-image: url('image/bg-simple.jpg')">
-            <!--<img src="image/bg-simple.jpg">-->
-        </article>
-        <article class="content_article content_article--simple slide"  style="background-image: url('image/bg-responsive.jpg')">
+<div class="team slider">
+    <div class="slides">
+        <div>
+            <img style="position: relative; float: left;" class="photo" src="./image/tim.png">
+            <img class="info" src="./image/tim-info.png">
+        </div>
+        <div>
             <!--<img src="image/bg-responsive.jpg">-->
-        </article>
-        <article class="content_article content_article--responsive slide"   style="background-image: url('image/bg-fast.jpg')">
+        </div>
+        <div>
             <!--<img src="image/bg-fast.jpg">-->
-        </article>
-</section>
-    </section>
+        </div>
+    </div>
+</div>
 
 <script>
 
 
-    var slides = $('.content_article-img');
+    var slides = $('.slides div');
 
     var glide = $('.slider').glide({
         arrowRightText: '>',

@@ -260,3 +260,16 @@ body{
     display:inline-block;
     text-decoration:none;
 }
+
+/* 团队 */
+.my_page .team{
+
+}
+.my_page .team .photo{
+    width: 20px;
+    height: 20px;
+}
+.my_page .team .info{
+    width: 20px;
+    height: 20px;
+}
