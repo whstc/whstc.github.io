@@ -16,12 +16,12 @@ body{
     width:  28px;
     height: 28px;
 }
-.my_nav .weixin{
-    margin-left: 16px;
-}
-.my_nav .weixin img{
-    margin-top: 6px;
-}
+/*.my_nav .weixin{*/
+    /*margin-left: 16px;*/
+/*}*/
+/*.my_nav .weixin img{*/
+    /*margin-top: 6px;*/
+/*}*/
 
 .my_nav .logo{
     margin: 0px;
@@ -47,6 +47,15 @@ body{
     position:absolute;
     float: right;
     right: 16px;
+    margin-top: 6px;
+    z-index: 10;
+    overflow: auto;
+}
+
+.my_nav .weixin img{
+    position:absolute;
+    float: left;
+    left: 16px;
     margin-top: 6px;
     z-index: 10;
     overflow: auto;
@@ -168,8 +177,24 @@ body{
     float: left;
 }
 
+.my_page .small-circle{
+    width:10px; height:10px;
+    border-radius:25px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 20px;
+}
+
+.my_page .expect_content{
+    height:50px;
+    line-height:50px;
+    display:block;
+}
+
 .my_page .expect_list{
-    margin-left: -40px;
+    margin-left: -20px;
+    color: white;
 }
 
 .my_page .expect_list li{
@@ -263,13 +288,19 @@ body{
 
 /* 团队 */
 .my_page .team{
+    display: block;
+    height: 200px;
+    background-color: white;
+    padding-top: 20px;
+}
+.my_page .us_info{
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-size: 18px;
+}
 
-}
-.my_page .team .photo{
-    width: 20px;
-    height: 20px;
-}
-.my_page .team .info{
-    width: 20px;
-    height: 20px;
+/*hank*/
+.slider-nav{
+    display: none;
 }
