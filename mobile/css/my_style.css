@@ -354,7 +354,7 @@ body{
 /*ai botot*/
 .my_page .air_content{
     display: block;
-    background-color: white;
+    /*background-color: white;*/
 }
 .my_page .airbobot_info{
     /*height: 100px;*/
