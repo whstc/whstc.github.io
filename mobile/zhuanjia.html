@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html itemscope="itemscope" itemtype="http://schema.org/Product" lang="en">
 <head>
-    <title>阿啦叮 - 幸福创客</title>
+    <title>专家 - 幸福创客</title>
     <meta content="结合知识与科技,为人类打造更幸福、更健康的生活。"
           name="description"/>
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
     <meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" name="viewport"/>
     <link rel="stylesheet" href="./css/my_style.css">
 
-    <link rel="stylesheet" href="./css/styles.css"/>
-
     <script type="text/javascript" src="./js/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="./js/jquery.glide.min.js"></script>
 </head>
 <body>
+
 <!-- 导航 -->
 <div class="my_nav">
-    <a class="weixin" href="javascript:history.go(-1);">
-        <img src="./image/goback.png"/>
-    </a>
+    <!--<a class="weixin" href="javascript:history.go(-1);">-->
+    <!--<img src="./image/goback.png"/>-->
+    <!--</a>-->
 
     <h1 class="logo">
         <a href="./index.html">
@@ -33,53 +31,6 @@
 </div>
 
 <div class="my_page">
-    <!--<img src="image/office.png">-->
-
-    <div>
-        <div class="air_content slider">
-            <div class="content-wrapper slides">
-                <div class="content_article content_article--fast slide">
-                    <img class="photo"
-                         src="./image/alading1.png">
-                </div>
-                <div class="content_article content_article--fast slide">
-                    <img class="photo"
-                         src="./image/alading2.png">
-                </div>
-                <div class="content_article content_article--fast slide">
-                    <img class="photo"
-                         src="./image/alading3.png">
-                </div>
-                <div class="content_article content_article--fast slide">
-                    <img class="photo"
-                         src="./image/alading4.png">
-                </div>
-                <div class="content_article content_article--fast slide">
-                    <img class="photo"
-                         src="./image/alading5.png">
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-    <!-- 介绍 -->
-    <div class="airbobot_info">
-        <p>&nbsp; &nbsp; &nbsp; 我们相信，结合人文、科学、科技以解决人类的心理需求，是让人类更健康更幸福的最好方法之一。</p>
-
-        <p>&nbsp; &nbsp; &nbsp; 因此，我们聚集了来自剑桥、哈佛、北大等世界级的心理学家、医学家和人工智能专家，以及前谷歌、华为罗德岛的工程师与设计师，一起尝试去打造一款激动人心的产品。我们把这款智能机器人叫做阿啦叮（Ai-robot），你的身心健康小管家。</p>
-
-        <p>&nbsp; &nbsp; &nbsp; 它，可以每天精心挑选为你量身订造的心理测试，让你随时了解自己的心理变化；</p>
-
-        <p>&nbsp; &nbsp; &nbsp; 它，是世界上最能保守秘密的朋友，任何心理方面的私密问题，都可以大方提问，悄悄回答；</p>
-
-        <p>&nbsp; &nbsp; &nbsp; 它，会为你选择最适合你聊天伙伴，彻底打开自己的心结并找到解决之道；</p>
-
-        <p>&nbsp; &nbsp; &nbsp; 它，能帮你搜罗到最适合你的顶级心理学家，建立一对一的联系；</p>
-    </div>
-
-
-
 
 
 
@@ -170,25 +121,7 @@
 
     </div>
 </div>
-<script>
 
-
-    var slides = $('.slides div');
-
-    var glide = $('.slider').glide({
-        arrowRightText: '>',
-        arrowLeftText: '<',
-        autoplay: false,
-        circular: false,
-        beforeTransition: function() {
-            $(slides).eq(-this.currentSlide).removeClass('fadeInUpBig').addClass('fadeOutDownBig');
-
-        },
-        afterTransition: function() {
-            $(slides).eq(-this.currentSlide).removeClass('fadeOutDownBig').addClass('fadeInUpBig');
-        }
-    });
-
-</script>
+<script type="text/javascript" src="./js/my_share.js"></script>
 </body>
 </html>
