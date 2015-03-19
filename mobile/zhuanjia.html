@@ -50,11 +50,10 @@
         <ul>
             <li>
                 <img src="image/martin.png"/>
-                <div class="expert_info expert_info_more">
+                <div class="expert_info">
                     <div>马丁·塞利格曼</div>
                     <div>(Martin Seligman)</div>
-                    <div>积极心理学之父并曾任全美心理学协会主席</div>
-                    <div>曾获美国应用与预防心理学会的荣誉奖章，终身成就奖</div>
+                    <div class="expert_info_more">积极心理学之父并曾任全美心理学协会主席。曾获美国应用与预防心理学会的荣誉奖章，终身成就奖</div>
                     <div>创始人博士导师及学術研究伙伴</div>
                 </div>
             </li>
@@ -220,7 +219,15 @@
 <script type="text/javascript" src="./js/my_share.js"></script>
 
 <script>
-    alert(WeixinApi);
+    $(".expert_info").click(function(){
+        var more = $(".expert_info_more");
+        if(more.length > 0){
+            more.addClass("xiaotian").removeClass("expert_info_more");
+        }else{
+            $(".xiaotian").addClass("expert_info_more").removeClass("xiaotian");
+        }
+
+    });
 
 </script>
 </body>

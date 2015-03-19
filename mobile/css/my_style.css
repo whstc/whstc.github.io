@@ -379,6 +379,7 @@ body{
     display: inline-block;
     margin-bottom: 30px;
     width: 100%;
+
 }
 
 .my_page .expert li img{
@@ -393,8 +394,14 @@ body{
 .my_page .expert .expert_info{
 
     margin-left: 85px;
-
 }
+.my_page .expert_info_more{
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
 
 /*hank*/
 .slider-nav{
