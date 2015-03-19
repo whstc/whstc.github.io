@@ -6,7 +6,7 @@
 
 body{
     margin: 0px;
-    background-color: #22aadd;
+    background-color: #5F65C5;
 
     font-family:myFirstFont;
 }
@@ -21,7 +21,7 @@ body{
 }
 
 .my_nav img {
-    width:  28px;
+    /*width:  28px;*/
     height: 28px;
 }
 /*.my_nav .weixin{*/
@@ -85,6 +85,9 @@ body{
 .my_page .main-nav-list{
     margin-left: -40px;
 }
+.my_page .main-nav-list img{
+    width: 35px;
+}
 .my_page .main-nav-list li{
     float: left;
     padding: 15px 0px 10px 0px;
@@ -108,7 +111,12 @@ body{
     margin: 0px;
     overflow: hidden;
     text-align: center;
+    padding-top: 20px;
 }
+
+/*.share span{*/
+   /*margin-top: 20px;*/
+/*}*/
 .share .share-list{
     padding-left: 0px;
 }
@@ -155,6 +163,7 @@ body{
 .footer_navbar ul li a{
    color: white;
     display: inline-block;
+    padding-left: 15px;
 
 }
 .footer_navbar ul li img{
@@ -162,10 +171,16 @@ body{
     float: left;
     padding-left: 10px;
 }
-.footer_navbar ul li a span{
+.footer_navbar ul li .right span{
     display: inline-block;
     font-size: 14px;
     margin-left: 20px;
+    line-height: 30px;
+}
+.footer_navbar ul li .left span{
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 5px;
     line-height: 30px;
 }
 
@@ -224,7 +239,8 @@ body{
 
 /* 幸福定制VIP */
 .my_page .cases-list{
-    margin-left: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: -5px;
     padding: 0px;
 }
@@ -241,15 +257,28 @@ body{
 
     margin-left: 10px;
     margin-right: 10px;
-}
+    margin: 0px;
 
+    /*border-bottom: 1px solid;*/
+}
+.my_page .cases-list li h2{
+    margin: 0px;
+    padding-top: 15px;
+}
+.my_page .cases-list li div:first-child{
+    background-color: #F3F3F3;
+}
+.my_page .cases-list li div:nth-child(2){
+   margin: 15px;
+}
 .my_page .cases-list li div img{
     width: 100%;
 }
 .my_page .cases-list li p{
     text-align: left;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 12px;
 }
 
 
