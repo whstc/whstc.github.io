@@ -12,7 +12,7 @@
     <script type="text/javascript" src="./js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="./js/video.js"></script>
 </head>
-<body>
+<body onselectstart="return false" oncontextmenu="window.event.returnValue=false" onpaste="return false;" oncopy="return false;" oncut="return false;">
 
 <!-- 导航 -->
 <div class="my_nav">
@@ -219,7 +219,7 @@
 <script type="text/javascript" src="./js/my_share.js"></script>
 
 <script>
-    $(".expert_info").click(function(){
+    $(".expert_info_more").click(function(){
         var more = $(".expert_info_more");
         if(more.length > 0){
             more.addClass("xiaotian").removeClass("expert_info_more");
