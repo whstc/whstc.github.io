@@ -364,6 +364,38 @@ body{
 }
 
 
+/*专家*/
+.my_page .expert{
+    background-color: white;
+    margin-top: -17px;
+
+    padding-top: 20px;
+}
+.my_page .expert ul{
+    margin-left: -35px ;
+    font-size: 12px;
+}
+.my_page .expert ul li{
+    display: inline-block;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.my_page .expert li img{
+
+    float: left;
+    padding-left: 5px;
+    width: 70px;
+    display: inline-block;
+    text-align: left;
+
+}
+.my_page .expert .expert_info{
+
+    margin-left: 85px;
+
+}
+
 /*hank*/
 .slider-nav{
     display: none;
