@@ -18,6 +18,9 @@ body{
     position: fixed;
     width: 100%;
     top: 0px;
+
+    z-index: 100;
+
 }
 
 .my_nav img {
@@ -90,7 +93,7 @@ body{
 }
 .my_page .main-nav-list li{
     float: left;
-    padding: 15px 0px 10px 0px;
+    padding: 10px 0px 20px 0px;
     width: 25%;
     display: inline-block;
     text-align: center;
@@ -347,6 +350,19 @@ body{
     color: white;
     font-size: 18px;
 }
+
+/*ai botot*/
+.my_page .air_content{
+    display: block;
+    background-color: white;
+}
+.my_page .airbobot_info{
+    /*height: 100px;*/
+    padding: 20px;
+    color: white;
+    font-size: 14px;
+}
+
 
 /*hank*/
 .slider-nav{
