@@ -11,6 +11,15 @@ body{
     font-family:myFirstFont;
 }
 
+.warning{
+   color: #fcc604;
+}
+
+.error{
+    color: #ff0000;
+}
+
+
 /*导航 */
 .my_nav{
     height: 40px;
