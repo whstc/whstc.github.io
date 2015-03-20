@@ -57,7 +57,7 @@ body{
 
 }
 .my_nav .logo img{
-    /*margin-top: -6px;*/
+    margin-top: 6px;
 }
 
 .my_nav .account{
@@ -509,6 +509,6 @@ body{
 }
 
 /*hank*/
-.slider-nav{
-    display: none;
-}
+/*.slider-nav{*/
+    /*display: none;*/
+/*}*/
