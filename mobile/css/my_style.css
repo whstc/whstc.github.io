@@ -45,7 +45,8 @@ body{
 
 .my_nav .logo{
     margin: 0px;
-
+/*background-color: #00FF00;*/
+    padding: 0px;
     position: absolute;
     top: 0px;
     left: 0px;
@@ -56,7 +57,7 @@ body{
 
 }
 .my_nav .logo img{
-    margin-top: 6px;
+    /*margin-top: -6px;*/
 }
 
 .my_nav .account{
@@ -114,16 +115,27 @@ body{
 }
 .my_page .main-nav-list span{
     display: inline-block;
-    font-size: 12px;
+    font-size: 10px;
     width: 100%;
 }
 
-.share {
+.share-white {
+    background-color: #4A7FC1;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 12px;
+    color: white;
+}
+.share-blank{
     background-color: white;
     margin: 0px;
     overflow: hidden;
     text-align: center;
     padding-top: 20px;
+    font-size: 12px;
+    color: #333333;
 }
 
 /*加入我们*/
@@ -132,8 +144,17 @@ body{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
-    font-size: 14px;
+    font-size: 12px;
     margin-top: -2px;
+}
+.my_page .welcome_content .welcome-name{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.my_page .welcome_content .info_img{
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 
@@ -222,11 +243,11 @@ body{
     text-align: center;
     padding-right: 16px;
 
-    font-size: 8px;
+    font-size: 12px;
 }
 .footer_navbar ul li .copyright{
     text-align: center;
-    font-size: 8px;
+    font-size: 10px;
 }
 .footer_navbar ul li .policy a span{
     display: inline-block;
@@ -235,7 +256,7 @@ body{
 /* 愿景 */
 .my_page .discreption{
     color: white;
-    font-size: 14px;
+    font-size: 13px;
     margin: 20px;
 }
 .my_page .discreption div{
@@ -279,6 +300,11 @@ body{
     margin-right: 20px;
     margin-bottom: -5px;
     padding: 0px;
+}
+.my_page .cases-list .case-name{
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .my_page .cases-list li{
     display: inline-block;
@@ -344,14 +370,16 @@ body{
 
 .my_page .submit{
     width: 100%;
-    font-size: 14px;
-    height: 36px;
+    font-size: 17px;
+    height: 44px;
     line-height: 36px;
     padding: 0 16px;
     margin-top: 5px;
     background-color: #003484;
     color: white;
     border: 0px;
+    border-radius: 5px;
+    margin-top: 20px;
 }
 
 .my_page .lianjie{
@@ -413,7 +441,7 @@ body{
 }
 .my_page .expert ul{
     margin-left: -35px ;
-    font-size: 12px;
+    font-size: 10px;
 }
 .my_page .expert ul li{
     display: inline-block;
@@ -451,7 +479,7 @@ body{
     margin-bottom: -2px;
     padding-top: 30px;
     padding-bottom: 30px;
-    font-size: 12px;
+    font-size: 9px;
 }
 
 /*社会责任*/
@@ -464,7 +492,7 @@ body{
     width: 40px;
 }
 .my_page .shehuizeren_info span{
-    font-size: large;
+    font-size: 14px;
 }
 
 .my_page .shehuizeren_info .shehuizeren_content{
