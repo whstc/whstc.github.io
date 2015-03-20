@@ -1,14 +1,15 @@
-@font-face
-{
-    font-family: myFirstFont;
-    src: url('../ttf/HIRAGINO SANS GB W3.OTF');
-}
+/*@font-face*/
+/*{*/
+    /*font-family: myFirstFont;*/
+    /*src: url('../ttf/HIRAGINO SANS GB W3.OTF');*/
+/*}*/
 
 body{
     margin: 0px;
     background-color: #4A7FC1;
 
-    font-family:myFirstFont;
+    /*font-family:myFirstFont;*/
+    font-family: Helvetica;
 }
 
 .warning{
