@@ -117,6 +117,17 @@ body{
     padding-top: 20px;
 }
 
+/*加入我们*/
+.my_page .welcome_content{
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-size: 14px;
+    margin-top: -2px;
+}
+
+
 /*.share span{*/
    /*margin-top: 20px;*/
 /*}*/
@@ -208,6 +219,14 @@ body{
 }
 
 /* 愿景 */
+.my_page .discreption{
+    color: white;
+    font-size: 14px;
+    margin: 20px;
+}
+.my_page .discreption div{
+    margin-top: 20px;
+}
 .my_page .circle{
     width:50px; height:50px;
     border-radius:25px;
@@ -218,9 +237,9 @@ body{
     width:10px; height:10px;
     border-radius:25px;
     float: left;
-    margin-left: 5px;
+    /*margin-left: 26px;*/
     margin-top: 5px;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 .my_page .expect_content{
@@ -343,12 +362,17 @@ body{
     height: 200px;
     background-color: white;
     padding-top: 20px;
+    background-color: #EDF0F8;
 }
+.my_page .team .photo{
+    position: relative; float: left; width: 100%; top: 20px;left: 20px
+}
+
 .my_page .us_info{
     text-align: center;
-    padding: 20px;
+    padding: -5px;
     color: white;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 /*ai botot*/
@@ -370,6 +394,7 @@ body{
     margin-top: -17px;
 
     padding-top: 20px;
+    margin-bottom: -15px;
 }
 .my_page .expert ul{
     margin-left: -35px ;
@@ -402,6 +427,41 @@ body{
     white-space: nowrap;
 }
 
+
+/*产品服务*/
+.my_page .chanpinfuwu_info{
+    background-color: white;
+    text-align: center;
+    margin-top: -20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+/*社会责任*/
+.my_page .shehuizeren_info{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.my_page .shehuizeren_info img{
+    width: 40px;
+}
+.my_page .shehuizeren_info span{
+    font-size: large;
+}
+
+.my_page .shehuizeren_info .shehuizeren_content{
+    margin-top: 10px;
+    text-align: left;
+}
+.my_page .shehuizeren_info .shehuizeren_content div{
+    margin-left: 15px;
+    padding-left: 5px;
+    border-left-style: solid;
+    border-left-width: 8px;
+    font-size: 12px;
+    padding-right: 10px;
+}
 
 /*hank*/
 .slider-nav{

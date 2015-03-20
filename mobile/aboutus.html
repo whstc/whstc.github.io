@@ -10,7 +10,7 @@
 
     <script type="text/javascript" src="./js/jquery-1.10.2.min.js"></script>
 </head>
-<body>
+<body onselectstart="return false" oncontextmenu="window.event.returnValue=false" onpaste="return false;" oncopy="return false;" oncut="return false;">
     <!-- 导航 -->
     <div class="my_nav">
     <a class="weixin" href="javascript:history.go(-1);">
@@ -32,28 +32,44 @@
     <div class="my_page">
         <img class="info_img" src="./image/us.png"/>
 
+        <div class="discreption">
+            <div>幸福创客，专注心里健康科技领域。</div>
+            <div>创客是指一群酷爱科技，热衷实践，
+                以追求极致的知识技术来改变世界的人；
+                幸福创客是一个平台，
+                整合汇聚在全球这样一群卓越非凡，
+                怀着热诚梦想的人，实践他们的才能，
+                使世界更健康更幸福。
+                英文名字winnovator的“w”是wellbeing，
+                代表着人类福祉(wellbeing)的创造者(innovator)的意思。</div>
+        </div>
 
         <!-- 愿景列表 -->
         <ul class="expect_list">
             <li>
-                <div class="small-circle" style="background-color:#018a01;"></div>
-                <span>
-                    愿景:使人们过的更健康、更幸福
-                </span>
-            </li>
-            <li>
-                <div class="small-circle" style="background-color:#fbed50;">
-
+                <div style="text-align: center">愿景</div>
+                <div style="margin-left: auto;margin-right: auto;width: 250px;">
+                    <div class="small-circle" style="background-color:#018a01;"></div>
+                    <span>
+                        使人们过的更健康、更幸福
+                    </span>
                 </div>
-                <span>
-                   使命: 体验科技创新 缔造幸福无限
-                </span>
             </li>
             <li>
-                <div class="small-circle" style="background-color:#157cee;"></div>
-                <span>
-                    价值观:
-                </span>
+                <div style="text-align: center">
+                    使命
+                </div>
+                <div style="margin-left: auto;margin-right: auto;width: 250px;">
+                    <div class="small-circle" style="background-color:#fbed50;"></div>
+                    <span>
+                       体验科技创新 缔造幸福无限
+                    </span>
+                </div>
+            </li>
+            <li>
+                <div style="text-align: center">
+                    价值观
+                </div>
             </li>
             <li>
                 <!--<div class="circle" style="background-color:#F00;">-->
