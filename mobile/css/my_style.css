@@ -178,8 +178,8 @@ body{
     width: 50%;
     display: inline-block;
     text-align: left;
-    border-top: 1px solid #99C4E4;
-
+    /*border-top: 1px solid #99C4E4;*/
+    height: 40px;
     color: white;
 }
 
