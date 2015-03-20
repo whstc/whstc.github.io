@@ -509,6 +509,7 @@ body{
 }
 
 /*hank*/
-/*.slider-nav{*/
+.slider-nav{
     /*display: none;*/
-/*}*/
+    bottom: 10px !important;
+}
