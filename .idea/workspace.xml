@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/welcome.html" afterPath="$PROJECT_DIR$/mobile/welcome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/account.png" afterPath="$PROJECT_DIR$/mobile/image/account.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/ahoutus.png" afterPath="$PROJECT_DIR$/mobile/image/ahoutus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/alice.png" afterPath="$PROJECT_DIR$/mobile/image/alice.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/dong.png" afterPath="$PROJECT_DIR$/mobile/image/dong.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/jamie.png" afterPath="$PROJECT_DIR$/mobile/image/jamie.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/jiaoqiao.jpg" afterPath="$PROJECT_DIR$/mobile/image/jiaoqiao.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/ju.png" afterPath="$PROJECT_DIR$/mobile/image/ju.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/kiu.png" afterPath="$PROJECT_DIR$/mobile/image/kiu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/logo.png" afterPath="$PROJECT_DIR$/mobile/image/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/maomao-info.png" afterPath="$PROJECT_DIR$/mobile/image/maomao-info.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/maomao.png" afterPath="$PROJECT_DIR$/mobile/image/maomao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/meiguo.jpg" afterPath="$PROJECT_DIR$/mobile/image/meiguo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/meitijieshao.png" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/ourteam.png" afterPath="$PROJECT_DIR$/mobile/image/ourteam.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/products.png" afterPath="$PROJECT_DIR$/mobile/image/products.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/shehuizerenlogo1.png" afterPath="$PROJECT_DIR$/mobile/image/shehuizerenlogo1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/shehuizerenlogo2.png" afterPath="$PROJECT_DIR$/mobile/image/shehuizerenlogo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/shehuizerenlogo4.png" afterPath="$PROJECT_DIR$/mobile/image/shehuizerenlogo4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/shenhuizerenlogo1.png" afterPath="$PROJECT_DIR$/mobile/image/shenhuizerenlogo1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/siron.png" afterPath="$PROJECT_DIR$/mobile/image/siron.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/store.png" afterPath="$PROJECT_DIR$/mobile/image/store.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/team.png" afterPath="$PROJECT_DIR$/mobile/image/team.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/tian.png" afterPath="$PROJECT_DIR$/mobile/image/tian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/tim.png" afterPath="$PROJECT_DIR$/mobile/image/tim.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/ting.png" afterPath="$PROJECT_DIR$/mobile/image/ting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/video_dace.png" afterPath="$PROJECT_DIR$/mobile/image/video_dace.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/weibo.png" afterPath="$PROJECT_DIR$/mobile/image/weibo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/weixin_icon.png" afterPath="$PROJECT_DIR$/mobile/image/weixin_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/welcome.png" afterPath="$PROJECT_DIR$/mobile/image/welcome.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/xianggang.jpg" afterPath="$PROJECT_DIR$/mobile/image/xianggang.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/xinyi.png" afterPath="$PROJECT_DIR$/mobile/image/xinyi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/yajing.png" afterPath="$PROJECT_DIR$/mobile/image/yajing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/yijiao.png" afterPath="$PROJECT_DIR$/mobile/image/yijiao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/zaixiankefu.png" afterPath="$PROJECT_DIR$/mobile/image/zaixiankefu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/image/zongbu.jpg" afterPath="$PROJECT_DIR$/mobile/image/zongbu.jpg" />
     </list>
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,8 +126,8 @@
       <file leaf-file-name="welcome.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/welcome.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40653357" vertical-offset="612" max-vertical-offset="4510">
-              <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.6061706" vertical-offset="612" max-vertical-offset="4510">
+              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -246,6 +280,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="displayitem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="whstc.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="video" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="displayitem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="whstc.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -849,8 +919,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/welcome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40653357" vertical-offset="612" max-vertical-offset="4510">
-          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.6061706" vertical-offset="612" max-vertical-offset="4510">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
