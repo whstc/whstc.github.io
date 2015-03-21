@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/enterprise/index.html" afterPath="$PROJECT_DIR$/user/enterprise/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/enterprise/jquery.lightbox_me.js" afterPath="$PROJECT_DIR$/user/enterprise/jquery.lightbox_me.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/css/my_style.css" afterPath="$PROJECT_DIR$/mobile/css/my_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/used.html" afterPath="$PROJECT_DIR$/mobile/used.html" />
     </list>
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,14 +67,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/user/enterprise/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.870968" vertical-offset="2089" max-vertical-offset="4554">
-              <caret line="130" column="22" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.44101635" vertical-offset="1275" max-vertical-offset="4554">
+              <caret line="69" column="57" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,22 +84,6 @@
               <caret line="232" column="0" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="used.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mobile/used.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3321234" vertical-offset="3381" max-vertical-offset="5896">
-              <caret line="162" column="47" selection-start-line="162" selection-start-column="47" selection-end-line="162" selection-end-column="47" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#li#7;n#ul#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,8 +148,8 @@
         <option value="$PROJECT_DIR$/mobile/lianxiwomen.html" />
         <option value="$PROJECT_DIR$/mobile/css/my_style.css" />
         <option value="$PROJECT_DIR$/user/enterprise/jquery.lightbox_me.js" />
-        <option value="$PROJECT_DIR$/user/enterprise/index.html" />
         <option value="$PROJECT_DIR$/mobile/used.html" />
+        <option value="$PROJECT_DIR$/user/enterprise/index.html" />
       </list>
     </option>
   </component>
@@ -833,6 +812,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/used.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9437387" vertical-offset="4635" max-vertical-offset="5896">
+          <caret line="162" column="47" selection-start-line="162" selection-start-column="47" selection-end-line="162" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#li#7;n#ul#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/user/enterprise/jquery.lightbox_me.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4566" max-vertical-offset="5236">
@@ -845,25 +838,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user/enterprise/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.870968" vertical-offset="2089" max-vertical-offset="4554">
-          <caret line="130" column="22" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/used.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3321234" vertical-offset="3381" max-vertical-offset="5896">
-          <caret line="162" column="47" selection-start-line="162" selection-start-column="47" selection-end-line="162" selection-end-column="47" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#li#7;n#ul#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.44101635" vertical-offset="1275" max-vertical-offset="4554">
+          <caret line="69" column="57" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
