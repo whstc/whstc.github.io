@@ -308,8 +308,8 @@ body{
 
 /* 幸福定制VIP */
 .my_page .cases-list{
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: -5px;
     padding: 0px;
 }
@@ -317,6 +317,7 @@ body{
     font-size: 17px;
     padding-top: 10px;
     padding-bottom: 10px;
+    display: none;
 }
 .my_page .cases-list li{
     display: inline-block;
@@ -389,6 +390,20 @@ body{
     margin-top: 5px;
     background-color: #003484;
     color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.my_page .qiyeshiyong{
+    width: 100%;
+    font-size: 17px;
+    height: 44px;
+    line-height: 36px;
+    padding: 0 16px;
+    margin-top: 5px;
+    /*background-color: #003484;*/
+    color: #003484;
     border: 0px;
     border-radius: 5px;
     margin-top: 20px;
