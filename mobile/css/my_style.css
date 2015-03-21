@@ -536,6 +536,9 @@ body{
     /*display: none;*/
     bottom: 10px !important;
 }
+.slider-arrows{
+    display: none;
+}
 
 select{
     position: absolute;

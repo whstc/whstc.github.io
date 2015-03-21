@@ -1,20 +1,20 @@
 /*
-* $ lightbox_me
-* By: Buck Wilson
-* Version : 2.3
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*     http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
+ * $ lightbox_me
+ * By: Buck Wilson
+ * Version : 2.3
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
 
 
 (function($) {
@@ -31,7 +31,7 @@
 
             if (opts.showOverlay) {
                 //check if there's an existing overlay, if so, make subequent ones clear
-               var $currentOverlays = $(".js_lb_overlay:visible");
+                var $currentOverlays = $(".js_lb_overlay:visible");
                 if ($currentOverlays.length > 0){
                     $overlay = $('<div class="lb_overlay_clear js_lb_overlay"/>');
                 } else {
@@ -40,28 +40,28 @@
             }
 
             /*----------------------------------------------------
-               DOM Building
-            ---------------------------------------------------- */
+             DOM Building
+             ---------------------------------------------------- */
             $('body').append($self.hide()).append($overlay);
 
 
             /*----------------------------------------------------
-               Overlay CSS stuffs
-            ---------------------------------------------------- */
+             Overlay CSS stuffs
+             ---------------------------------------------------- */
 
             // set css of the overlay
             if (opts.showOverlay) {
                 setOverlayHeight(); // pulled this into a function because it is called on window resize.
                 $overlay.css({ position: 'absolute', width: '100%', top: 0, left: 0, right: 0, bottom: 0, zIndex: (opts.zIndex + 2), display: 'none' });
-				if (!$overlay.hasClass('lb_overlay_clear')){
-                	$overlay.css(opts.overlayCSS);
+                if (!$overlay.hasClass('lb_overlay_clear')){
+                    $overlay.css(opts.overlayCSS);
                 }
             }
 
             /*----------------------------------------------------
-               Animate it in.
-            ---------------------------------------------------- */
-               //
+             Animate it in.
+             ---------------------------------------------------- */
+            //
             if (opts.showOverlay) {
                 $overlay.fadeIn(opts.overlaySpeed, function() {
                     setSelfPosition();
@@ -73,20 +73,20 @@
             }
 
             /*----------------------------------------------------
-               Hide parent if parent specified (parentLightbox should be jquery reference to any parent lightbox)
-            ---------------------------------------------------- */
+             Hide parent if parent specified (parentLightbox should be jquery reference to any parent lightbox)
+             ---------------------------------------------------- */
             if (opts.parentLightbox) {
                 opts.parentLightbox.fadeOut(200);
             }
 
 
             /*----------------------------------------------------
-               Bind Events
-            ---------------------------------------------------- */
+             Bind Events
+             ---------------------------------------------------- */
 
             $(window).resize(setOverlayHeight)
-                     .resize(setSelfPosition)
-                     .scroll(setSelfPosition);
+                .resize(setSelfPosition)
+                .scroll(setSelfPosition);
 
             $(window).bind('keyup.lightbox_me', observeKeyPress);
 
@@ -102,12 +102,12 @@
 
 
             /*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-              -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+             -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
 
 
             /*----------------------------------------------------
-               Private Functions
-            ---------------------------------------------------- */
+             Private Functions
+             ---------------------------------------------------- */
 
             /* Remove or hide all elements */
             function closeLightbox() {
@@ -127,7 +127,7 @@
                 }
                 $iframe.remove();
 
-				// clean up events.
+                // clean up events.
                 $self.undelegate(opts.closeSelector, "click");
 
                 $(window).unbind('reposition', setOverlayHeight);
@@ -145,13 +145,13 @@
 
 
             /* Set the height of the overlay
-                    : if the document height is taller than the window, then set the overlay height to the document height.
-                    : otherwise, just set overlay height: 100%
-            */
+             : if the document height is taller than the window, then set the overlay height to the document height.
+             : otherwise, just set overlay height: 100%
+             */
             function setOverlayHeight() {
                 if ($(window).height() < $(document).height()) {
                     $overlay.css({height: $(document).height() + 'px'});
-                     $iframe.css({height: $(document).height() + 'px'});
+                    $iframe.css({height: $(document).height() + 'px'});
                 } else {
                     $overlay.css({height: '100%'});
                 }
@@ -159,9 +159,9 @@
 
 
             /* Set the position of the modal'd window ($self)
-                    : if $self is taller than the window, then make it absolutely positioned
-                    : otherwise fixed
-            */
+             : if $self is taller than the window, then make it absolutely positioned
+             : otherwise fixed
+             */
             function setSelfPosition() {
                 var s = $self[0].style;
 
@@ -170,7 +170,7 @@
 
 
                 /* we have to get a little fancy when dealing with height, because lightbox_me
-                    is just so fancy.
+                 is just so fancy.
                  */
 
                 // if the height of $self is bigger than the window and self isn't already position absolute
