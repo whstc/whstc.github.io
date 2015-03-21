@@ -395,18 +395,9 @@ body{
     margin-top: 20px;
 }
 
-.my_page .qiyeshiyong{
-    width: 100%;
-    font-size: 17px;
+.my_page .qiyeshiyong img{
     height: 44px;
-    line-height: 36px;
-    padding: 0 16px;
-    margin-top: 5px;
-    /*background-color: #003484;*/
-    color: #003484;
-    border: 0px;
-    border-radius: 5px;
-    margin-top: 20px;
+    width: auto;
 }
 
 .my_page .lianjie{
