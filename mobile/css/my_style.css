@@ -570,3 +570,10 @@ select{
     border-left: 30px solid red;
     border-bottom: 50px solid transparent;
 }
+
+.my_page .info_img_name{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 90%; height: auto;
+}
