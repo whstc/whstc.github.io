@@ -263,6 +263,11 @@ body{
 .my_page .discreption div{
     margin-top: 20px;
 }
+
+.my_page .oneline{
+    line-height: 20px;
+    text-align: justify;
+}
 .my_page .circle{
     width:50px; height:50px;
     border-radius:25px;
@@ -464,6 +469,10 @@ body{
 
     margin-left: 85px;
 }
+.my_page .expert .expert_info div:first-child{
+    font-weight: bold;
+}
+
 .my_page .expert_info_more{
     width: 100%;
     text-overflow: ellipsis;
@@ -498,7 +507,8 @@ body{
 
 .my_page .shehuizeren_info .shehuizeren_content{
     margin-top: 10px;
-    text-align: left;
+    padding-right: 10px;
+    text-align: justify;
 }
 .my_page .shehuizeren_info .shehuizeren_content div{
     margin-left: 15px;
