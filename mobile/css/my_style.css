@@ -37,6 +37,12 @@ body{
     /*width:  28px;*/
     height: 28px;
 }
+
+.my_page .index_line {
+    padding-left: 2em;
+    text-indent: -1.5em;
+    line-height: 18px;
+}
 /*.my_nav .weixin{*/
     /*margin-left: 16px;*/
 /*}*/
