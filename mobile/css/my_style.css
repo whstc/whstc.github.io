@@ -165,9 +165,9 @@ body{
 }
 
 
-/*.share span{*/
-   /*margin-top: 20px;*/
-/*}*/
+.share{
+   margin-bottom: 20px;
+}
 .share .share-list{
     padding-left: 0px;
 }
@@ -207,12 +207,12 @@ body{
     display: inline-block;
     text-align: left;
     /*border-top: 1px solid #99C4E4;*/
-    height: 40px;
+    height: 15px;
     color: white;
 }
 
 .footer_navbar ul li a{
-   color: white;
+    color: white;
     display: inline-block;
     padding-left: 15px;
 
@@ -259,12 +259,15 @@ body{
 .footer_navbar ul li .policy a span{
     display: inline-block;
 }
-
 /* 愿景 */
 .my_page .discreption{
     color: white;
     font-size: 13px;
-    margin: 20px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .my_page .discreption div{
     margin-top: 20px;
@@ -570,4 +573,26 @@ select{
     margin-left: 10px;
     margin-right: 10px;
     width: 90%; height: auto;
+}
+
+.my_page .text-blue{
+    color: #4A7FC1;
+}
+
+.policy-blue {
+    text-align: center;
+}
+.policy-blue span{
+    color: #4A7FC1;
+
+    font-size: 10px;
+}
+.copyright-blue{
+    color: #4A7FC1;
+    text-align: center;
+    font-size: 10px;
+}
+
+.footer_navbar_blank{
+    background-color: white;
 }
