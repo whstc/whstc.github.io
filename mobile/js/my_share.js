@@ -125,3 +125,10 @@
         o.val(m),
             l.off("click").on("click", e)
     } ();
+
+
+$("#hezuohuoban_select").change(function(e){
+    var url = $("#hezuohuoban_select").find("option:selected").data("url");
+    //window.location.href = url;
+    self.location = url;
+});

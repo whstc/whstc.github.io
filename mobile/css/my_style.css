@@ -542,6 +542,9 @@ body{
 .slider-arrows{
     display: none;
 }
+.video-js{
+    background-color: white !important;
+}
 
 select{
     position: absolute;
