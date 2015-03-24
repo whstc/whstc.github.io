@@ -599,3 +599,36 @@ select{
 .footer_navbar_blank{
     background-color: white;
 }
+
+/*媒体介绍*/
+.my_page .meiti-content{
+    margin-top: 20px;
+}
+
+.my_page .meiti-content .meiti-left{
+    /*background-color: #00FF00;*/
+    float: left;width: 50%;
+    height:1100px;
+    background-color: white;
+}
+.my_page .meiti-content .meiti-right{
+    /*background-color: #00FFFF;*/
+    float: right;width: 50%;
+    height: 1100px;
+    background-color: white;
+    /*padding-left: 20px;*/
+}
+.my_page .meiti-content .one_meiti{
+    border: 1px solid #696;
+    box-shadow: #666 0px 0px 10px;
+
+    margin: 10px;
+
+}
+.my_page .one_meiti .one_meiti_img{
+    text-align: center;
+}
+.my_page .meiti-content .one_meiti span{
+    text-align: left;
+   margin-left: 10px;
+}
