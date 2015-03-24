@@ -689,7 +689,7 @@ select{
     background-size: 60px 60px;
     background-repeat: no-repeat;
     background-position-y: -6px;
-
+    min-height: 40px;
     padding-left: 65px;
 }
 .alading-info2{
@@ -697,14 +697,14 @@ select{
     background-size: 60px 60px;
     background-repeat: no-repeat;
     background-position-y: -6px;
-
+    min-height: 40px;
     padding-left: 65px;
 }.alading-info3{
      background: url("../image/alading_info3.png");
      background-size: 60px 60px;
      background-repeat: no-repeat;
      background-position-y: -6px;
-
+     min-height: 40px;
      padding-left: 65px;
  }
 .alading-info4{
@@ -712,7 +712,7 @@ select{
     background-size: 60px 60px;
     background-repeat: no-repeat;
     background-position-y: -6px;
-
+    min-height: 40px;
     padding-left: 65px;
 }
 .alading-info5{
@@ -720,6 +720,6 @@ select{
     background-size: 60px 60px;
     background-repeat: no-repeat;
     background-position-y: -6px;
-
+    min-height: 40px;
     padding-left: 65px;
 }
