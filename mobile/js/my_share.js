@@ -132,3 +132,17 @@ $("#hezuohuoban_select").change(function(e){
     //window.location.href = url;
     self.location = url;
 });
+$(".control").click(function(e){
+    var a = $(e.currentTarget);
+    if(a.hasClass( "dakai" )){
+        a.removeClass("dakai").addClass("guanbi")
+        a.attr("src","./image/guanbi.png");
+
+        a.parent().parent().parent().children(".head_info").hide()
+    }else{
+        a.removeClass("guanbi").addClass("dakai")
+        a.attr("src","./image/dakai.png");
+        a.parent().parent().parent().children(".head_info").show();
+    }
+
+});

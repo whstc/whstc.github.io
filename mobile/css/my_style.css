@@ -466,8 +466,8 @@ body{
 }
 .my_page .expert ul li{
     display: inline-block;
-    margin-bottom: 30px;
-    /*width: 100%;*/
+    margin-bottom: 10px;
+    width: 90%;
 
 }
 
