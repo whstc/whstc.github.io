@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao/jiemengxinlixue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao/qiyeyingxiangli-0001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao/qiyeyingxiangli-0002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao/qiyeyingxiangli-0003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao/qiyeyingxiangli-0004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao/qiyeyingxiangli-0005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao/qiyeyingxiangli-0006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao/xinfudeganwu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/image/meitijieshao/xingfudeganwu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/meitijieshao.html" afterPath="$PROJECT_DIR$/mobile/meitijieshao.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/used.html" afterPath="$PROJECT_DIR$/mobile/used.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="displayitem.iws" />
@@ -80,11 +68,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="meitijieshao.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="meitijieshao.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/meitijieshao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29174665" vertical-offset="2004" max-vertical-offset="6446">
-              <caret line="98" column="109" selection-start-line="98" selection-start-column="109" selection-end-line="98" selection-end-column="109" />
+            <state vertical-scroll-proportion="-7.032258" vertical-offset="2004" max-vertical-offset="6446">
+              <caret line="101" column="32" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -98,7 +86,7 @@
       <file leaf-file-name="xingfudeganwu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.774194" vertical-offset="330" max-vertical-offset="3212">
+            <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="3212">
               <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
               <folding />
             </state>
@@ -108,7 +96,7 @@
       <file leaf-file-name="jiemengxinlixue.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.645162" vertical-offset="396" max-vertical-offset="3212">
+            <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="3212">
               <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -122,7 +110,7 @@
       <file leaf-file-name="qiyeyingxiangli.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.2580647" vertical-offset="528" max-vertical-offset="3300">
+            <state vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="3300">
               <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
               <folding />
             </state>
@@ -145,13 +133,23 @@
       <file leaf-file-name="zhuanjia.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/zhuanjia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="2882">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state vertical-scroll-proportion="-4.2580647" vertical-offset="22" max-vertical-offset="2882">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
               <folding>
                 <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="used.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile/used.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6276392" vertical-offset="1059" max-vertical-offset="6226">
+              <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -217,7 +215,6 @@
         <option value="$PROJECT_DIR$/mobile/news/viewer.js" />
         <option value="$PROJECT_DIR$/user/enterprise/jquery.lightbox_me.js" />
         <option value="$PROJECT_DIR$/user/enterprise/index.html" />
-        <option value="$PROJECT_DIR$/mobile/zhuanjia.html" />
         <option value="$PROJECT_DIR$/mobile/chanpinfuwu.html" />
         <option value="$PROJECT_DIR$/mobile/lianxiwomen.html" />
         <option value="$PROJECT_DIR$/mobile/shehuizeren.html" />
@@ -230,13 +227,14 @@
         <option value="$PROJECT_DIR$/mobile/aboutus.html" />
         <option value="$PROJECT_DIR$/mobile/css/my_style.css" />
         <option value="$PROJECT_DIR$/mobile/image/meitijieshao/qiyeyingxiangli.html" />
-        <option value="$PROJECT_DIR$/mobile/used.html" />
         <option value="$PROJECT_DIR$/mobile/airobot.html" />
         <option value="$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html" />
         <option value="$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html" />
         <option value="$PROJECT_DIR$/mobile/meitijieshao/jiemengdeganwu.html" />
         <option value="$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html" />
         <option value="$PROJECT_DIR$/mobile/meitijieshao.html" />
+        <option value="$PROJECT_DIR$/mobile/zhuanjia.html" />
+        <option value="$PROJECT_DIR$/mobile/used.html" />
       </list>
     </option>
   </component>
@@ -310,24 +308,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="displayitem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whstc.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -366,12 +346,7 @@
       <recent name="$PROJECT_DIR$/mobile/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.airobot.html">
-    <configuration default="false" name="hah.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/displayitem/tool/hah.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.zhuanjia.html">
     <configuration default="false" name="meitijieshao.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/displayitem/mobile/meitijieshao.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -388,6 +363,11 @@
       <method />
     </configuration>
     <configuration default="false" name="airobot.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/displayitem/mobile/airobot.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="zhuanjia.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/displayitem/mobile/zhuanjia.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -431,19 +411,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.hah.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.meitijieshao.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.qiyeyingxiangli.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.used.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.meitijieshao.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.qiyeyingxiangli.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.used.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.zhuanjia.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.used.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.qiyeyingxiangli.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.meitijieshao.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.hah.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.zhuanjia.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.used.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.qiyeyingxiangli.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.meitijieshao.html" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -854,25 +834,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/zhuanjia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="2882">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/used.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71869326" vertical-offset="0" max-vertical-offset="6204">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/airobot.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="4136">
@@ -886,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.645162" vertical-offset="396" max-vertical-offset="3212">
+        <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="3212">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -898,7 +859,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2580647" vertical-offset="528" max-vertical-offset="3300">
+        <state vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="3300">
           <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
           <folding />
         </state>
@@ -906,7 +867,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.774194" vertical-offset="330" max-vertical-offset="3212">
+        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="3212">
           <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
           <folding />
         </state>
@@ -914,14 +875,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/meitijieshao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29174665" vertical-offset="2004" max-vertical-offset="6446">
-          <caret line="98" column="109" selection-start-line="98" selection-start-column="109" selection-end-line="98" selection-end-column="109" />
+        <state vertical-scroll-proportion="-7.032258" vertical-offset="2004" max-vertical-offset="6446">
+          <caret line="101" column="32" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#5;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#6;n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/zhuanjia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.2580647" vertical-offset="22" max-vertical-offset="2882">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/used.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6276392" vertical-offset="1059" max-vertical-offset="6226">
+          <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
