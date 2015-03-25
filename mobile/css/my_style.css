@@ -484,9 +484,10 @@ body{
 
     margin-left: 85px;
 }
+
 .my_page .expert .expert_info .control{
- width: 20px;
-    height: 10px;
+    width: 30px;
+    height: 19px;
     float: right;
 }
 .my_page .expert .expert_info div:first-child{
@@ -735,10 +736,10 @@ select{
     margin-right: -10px !important;
 }
 .putong_zhuanjia li{
-    background-color: #00FF00;
+    background-color: #F4F7FA;
     padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 5px;
+    padding-left: 10px;
     padding-right: 10px;
     margin-bottom: 10px !important;
 
@@ -748,8 +749,18 @@ select{
     background-size: 10px 15px;
     background-repeat: no-repeat;
     /*background-position-y: 4px;*/
-    padding-left: 20px;
+    padding-left: 15px;
+
+    margin-top: 8px;
 }
 .putong_zhuanjia .head_info{
     float: left;
+
+}
+.my_page .expert .expert_info .name{
+
+    font-size: 12px;
+
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
