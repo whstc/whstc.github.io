@@ -484,6 +484,11 @@ body{
 
     margin-left: 85px;
 }
+.my_page .expert .expert_info .control{
+ width: 20px;
+    height: 10px;
+    float: right;
+}
 .my_page .expert .expert_info div:first-child{
     font-weight: bold;
 }
@@ -740,8 +745,9 @@ select{
 }
 .putong_zhuanjia .expert_info .position_img{
     background: url("../image/dingwei.png");
-    background-size: 60px 60px;
+    background-size: 10px 15px;
     background-repeat: no-repeat;
+    /*background-position-y: 4px;*/
     padding-left: 20px;
 }
 .putong_zhuanjia .head_info{
