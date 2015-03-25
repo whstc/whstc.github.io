@@ -755,7 +755,7 @@ select{
 }
 .putong_zhuanjia .head_info{
     float: left;
-
+    display: none;
 }
 .my_page .expert .expert_info .name{
 
