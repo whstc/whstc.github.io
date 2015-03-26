@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="" />
+    <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/meitijieshao.html" afterPath="$PROJECT_DIR$/mobile/meitijieshao.html" />
+    </list>
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,8 +96,8 @@
       <file leaf-file-name="meitijieshao.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/meitijieshao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39311594" vertical-offset="2621" max-vertical-offset="6380">
-              <caret line="129" column="20" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.5569106" vertical-offset="2586" max-vertical-offset="6380">
+              <caret line="130" column="40" selection-start-line="130" selection-start-column="40" selection-end-line="130" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -359,7 +361,7 @@
       <recent name="$PROJECT_DIR$/mobile/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.zhuanjia.html">
+  <component name="RunManager" selected="JavaScript Debug.meitijieshao.html">
     <configuration default="false" name="meitijieshao.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/displayitem/mobile/meitijieshao.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -432,11 +434,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.zhuanjia.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.used.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.qiyeyingxiangli.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.meitijieshao.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.meitijieshao.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.zhuanjia.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.used.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.qiyeyingxiangli.html" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -912,8 +914,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/meitijieshao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39311594" vertical-offset="2621" max-vertical-offset="6380">
-          <caret line="129" column="20" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.5569106" vertical-offset="2586" max-vertical-offset="6380">
+          <caret line="130" column="40" selection-start-line="130" selection-start-column="40" selection-end-line="130" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
