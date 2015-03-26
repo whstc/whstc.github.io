@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/login.html" afterPath="$PROJECT_DIR$/mobile/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/meitijieshao.html" afterPath="$PROJECT_DIR$/mobile/meitijieshao.html" />
-    </list>
+    <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="" />
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,8 +94,8 @@
       <file leaf-file-name="meitijieshao.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/meitijieshao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83152175" vertical-offset="2621" max-vertical-offset="6380">
-              <caret line="140" column="18" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.39311594" vertical-offset="2621" max-vertical-offset="6380">
+              <caret line="129" column="20" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -915,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/meitijieshao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83152175" vertical-offset="2621" max-vertical-offset="6380">
-          <caret line="140" column="18" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.39311594" vertical-offset="2621" max-vertical-offset="6380">
+          <caret line="129" column="20" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
