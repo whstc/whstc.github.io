@@ -2,286 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/glyphish-icons/09-chat2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/glyphish-icons/100-coffee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/glyphish-icons/18-envelope.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/glyphish-icons/19-gear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/glyphish-icons/21-skull.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/glyphish-icons/30-key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/glyphish-icons/34-coffee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/glyphish-icons/88-beermug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/action-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/action-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-af.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-ag.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-bb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-bk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-hc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-k.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-mg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-ok.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-p.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-rh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-ws.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/album-xx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/alert-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/alert-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/apple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-d-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-d-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-d-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-d-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-d-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-d-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-u-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-u-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-u-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-u-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-u-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/arrow-u-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/audio-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/audio-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/back-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/back-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/bars-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/bars-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/bg-pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/bike.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/blackberry_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/bmw-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/bmw.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/buenosaires.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/bullets-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/bullets-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/calendar-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/calendar-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/camera-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/camera-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/capetown.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/carat-d-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/carat-d-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/carat-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/carat-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/carat-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/carat-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/carat-u-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/carat-u-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/check-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/check-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/clock-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/clock-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/cloud-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/cloud-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/comment-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/comment-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/de.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/delete-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/delete-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/devices.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/edit-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/edit-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/eye-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/eye-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/fi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/firefox-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/firefox_os.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/forbidden-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/forbidden-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/forward-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/forward-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/galaxy_express.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/gb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/gear-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/gear-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/gf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/grid-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/grid-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/heart-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/heart-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/home-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/home-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/info-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/info-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/jquery-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/landrover-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/landrover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/location-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/location-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/lock-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/lock-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/lumia_800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/mail-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/mail-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/minus-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/minus-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/navigation-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/navigation-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/newyork.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/nexus_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/paris.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/phone-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/phone-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/phone_galaxy3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/phone_iphone5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/phone_lumia920.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/phone_onex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/photo-landscape.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/photo-portrait.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/photo-run.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/plus-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/plus-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/power-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/power-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/recycle-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/recycle-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/refresh-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/refresh-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/search-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/search-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/seoul.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/shop-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/shop-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/star-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/star-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/sydney.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/tag-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/tag-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/tesla-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/tesla.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/tizen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/us.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/user-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/user-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/video-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-png/video-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/img/glyphish-icons/Read me first - license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/action-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/action-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/alert-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/alert-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-d-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-d-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-d-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-d-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-d-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-d-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-u-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-u-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-u-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-u-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-u-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/arrow-u-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/audio-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/audio-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/back-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/back-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/bars-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/bars-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/bullets-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/bullets-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/calendar-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/calendar-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/camera-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/camera-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/carat-d-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/carat-d-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/carat-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/carat-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/carat-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/carat-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/carat-u-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/carat-u-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/check-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/check-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/clock-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/clock-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/cloud-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/cloud-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/comment-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/comment-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/delete-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/delete-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/edit-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/edit-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/eye-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/eye-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/forbidden-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/forbidden-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/forward-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/forward-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/gear-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/gear-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/grid-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/grid-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/h2widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/heart-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/heart-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/home-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/home-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/info-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/info-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/css/jqm-demos.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/jqm-demos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/js/jquery.mobile-1.4.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/jquery.mobile-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/js/jquery.mobile-1.4.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/js/jquery.mobile-1.4.5.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/jquery.mobile.external-png-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/jquery.mobile.icons-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/jquery.mobile.inline-png-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/jquery.mobile.inline-svg-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/jquery.mobile.structure-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/jquery.mobile.theme-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/location-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/location-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/lock-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/lock-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/mail-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/mail-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/minus-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/minus-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/navigation-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/navigation-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/phone-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/phone-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/plus-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/plus-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/power-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/power-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/recycle-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/recycle-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/refresh-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/refresh-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/search-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/search-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/shop-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/shop-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/star-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/star-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/tag-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/tag-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/user-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/user-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/video-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/themes/default/images/icons-svg/video-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/view-source.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/aboutus.html" afterPath="$PROJECT_DIR$/mobile/aboutus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/meitijieshao.html" afterPath="$PROJECT_DIR$/mobile/meitijieshao.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/css/my_style.css" afterPath="$PROJECT_DIR$/mobile/css/my_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/ourteam.html" afterPath="$PROJECT_DIR$/mobile/ourteam.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/shehuizeren.html" afterPath="$PROJECT_DIR$/mobile/shehuizeren.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/video/VfE_html5.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/test_video.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/zhuanjia.html" afterPath="$PROJECT_DIR$/mobile/zhuanjia.html" />
     </list>
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -346,6 +70,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="zhuanjia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/zhuanjia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.290323" vertical-offset="725" max-vertical-offset="10802">
+              <caret line="39" column="74" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_video.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tool/test_video.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.47912887" vertical-offset="0" max-vertical-offset="682">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="jquery.mobile-1.4.5.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/css/themes/default/jquery.mobile-1.4.5.min.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -544,10 +288,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="meitijieshao.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="meitijieshao.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/meitijieshao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9201452" vertical-offset="3475" max-vertical-offset="4268">
+            <state vertical-scroll-proportion="-16.35484" vertical-offset="3475" max-vertical-offset="4268">
               <caret line="279" column="10" selection-start-line="279" selection-start-column="10" selection-end-line="279" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -589,7 +333,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/view/single.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/controllers.js" />
         <option value="$PROJECT_DIR$/backend/index.html" />
@@ -629,7 +372,6 @@
         <option value="$PROJECT_DIR$/mobile/index.html" />
         <option value="$PROJECT_DIR$/mobile/used.html" />
         <option value="$PROJECT_DIR$/mobile/js/my_share.js" />
-        <option value="$PROJECT_DIR$/mobile/zhuanjia.html" />
         <option value="$PROJECT_DIR$/mobile/airobot.html" />
         <option value="$PROJECT_DIR$/mobile/js/jquery.mobile-1.4.5.min.js" />
         <option value="$PROJECT_DIR$/mobile/css/jquery.mobile-1.4.5.min.css" />
@@ -640,6 +382,8 @@
         <option value="$PROJECT_DIR$/mobile/aboutus.html" />
         <option value="$PROJECT_DIR$/mobile/shehuizeren.html" />
         <option value="$PROJECT_DIR$/mobile/meitijieshao.html" />
+        <option value="$PROJECT_DIR$/mobile/zhuanjia.html" />
+        <option value="$PROJECT_DIR$/tool/test_video.html" />
       </list>
     </option>
   </component>
@@ -708,6 +452,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="displayitem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="whstc.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="mobile" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -726,25 +484,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="displayitem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whstc.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="video" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -775,11 +515,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mobile/video" />
       <recent name="$PROJECT_DIR$/mobile/css" />
       <recent name="$PROJECT_DIR$/mobile/js" />
       <recent name="$PROJECT_DIR$/mobile" />
       <recent name="$PROJECT_DIR$/mobile/image" />
-      <recent name="$PROJECT_DIR$/mobile/video" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -788,13 +528,8 @@
       <recent name="$PROJECT_DIR$/mobile/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ourteam.html">
+  <component name="RunManager" selected="JavaScript Debug.test_video.html">
     <configuration default="false" name="meitijieshao.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/displayitem/mobile/meitijieshao.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="used.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/displayitem/mobile/used.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -810,6 +545,11 @@
       <method />
     </configuration>
     <configuration default="false" name="ourteam.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/displayitem/mobile/ourteam.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_video.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/displayitem/tool/test_video.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -854,18 +594,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.meitijieshao.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.used.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.zhuanjia.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.ourteam.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.zhuanjia.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ourteam.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test_video.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.ourteam.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.meitijieshao.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.zhuanjia.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.used.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test_video.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.zhuanjia.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ourteam.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.meitijieshao.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.airobot.html" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -893,7 +633,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -901,7 +641,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50641024" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33620015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33620015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13333334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -972,11 +712,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mobile/image/witches.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/js/jquery.glide.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
@@ -1191,31 +926,6 @@
         <state vertical-scroll-proportion="0.23956443" vertical-offset="462" max-vertical-offset="2046">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/zhuanjia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.129032" vertical-offset="8711" max-vertical-offset="10802">
-          <caret line="406" column="24" selection-start-line="406" selection-start-column="24" selection-end-line="406" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1500,7 +1210,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/meitijieshao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9201452" vertical-offset="3475" max-vertical-offset="4268">
+        <state vertical-scroll-proportion="-16.35484" vertical-offset="3475" max-vertical-offset="4268">
           <caret line="279" column="10" selection-start-line="279" selection-start-column="10" selection-end-line="279" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1520,6 +1230,22 @@
             <element signature="n#style#0;n#div#0;n#li#5;n#ul#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#6;n#ul#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/zhuanjia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.290323" vertical-offset="725" max-vertical-offset="10802">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/test_video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47912887" vertical-offset="0" max-vertical-offset="682">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
