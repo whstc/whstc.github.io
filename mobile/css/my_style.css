@@ -6,8 +6,8 @@
 
 body{
     margin: 0px;
-    background-color: #4A7FC1;
-
+    background-color: #ffffff;
+    color: #595959;
     /*font-family:myFirstFont;*/
     font-family: Helvetica;
 }
@@ -168,8 +168,11 @@ body{
 .share{
    margin-bottom: 20px;
 }
+.share span{
+    padding-left: 20px;
+}
 .share .share-list{
-    padding-left: 0px;
+    /*padding-left: 0px;*/
 }
 .share .share-list li{
     display: inline-block;
@@ -446,7 +449,7 @@ body{
 .my_page .airbobot_info{
     /*height: 100px;*/
     padding: 20px;
-    color: white;
+    /*color: white;*/
     font-size: 14px;
 }
 
@@ -763,4 +766,8 @@ select{
 
     margin-top: 8px;
     margin-bottom: 8px;
+}
+
+.show_more{
+    display: none;
 }

@@ -147,6 +147,24 @@ $(".control").click(function(e){
 
 });
 
+$(".control_wenzi").click(function(e){
+    var a = $(e.currentTarget);
+    if(a.hasClass( "dakai" )){
+        a.removeClass("dakai").addClass("guanbi")
+        a.attr("src","./image/guanbi.png");
+        $(".show_more").hide();
+        $(".hide_more").show();
+
+    }else{
+        a.removeClass("guanbi").addClass("dakai")
+        a.attr("src","./image/dakai.png");
+
+        $(".show_more").show();
+        $(".hide_more").hide();
+    }
+
+});
+
 //$(".one_putong_zhuanjia").click(function(e){
 //    var b = $(e.currentTarget)
 //        a = $(".control")
