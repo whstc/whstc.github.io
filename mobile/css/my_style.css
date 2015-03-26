@@ -246,7 +246,7 @@ body{
     min-height: 1.5em;
     min-height: 100%;
 
-    opacity: 0;
+    /*opacity: 0;*/
 }
 
 .footer_navbar ul li .policy{
@@ -264,7 +264,7 @@ body{
 }
 /* 愿景 */
 .my_page .discreption{
-    color: white;
+    /*color: white;*/
     font-size: 13px;
 
     margin-top: 20px;
@@ -303,7 +303,7 @@ body{
 
 .my_page .expect_list{
     margin-left: -20px;
-    color: white;
+    /*color: white;*/
 }
 
 .my_page .expect_list li{
@@ -366,7 +366,7 @@ body{
 /*登录页面*/
 .my_page .sub_head{
    text-align: center;
-    color: white;
+    /*color: white;*/
 }
 
 .my_page .cub_content{
@@ -426,18 +426,27 @@ body{
 .my_page .team{
     display: block;
     height: 200px;
-    background-color: white;
+    /*background-color: white;*/
     padding-top: 20px;
     background-color: #EDF0F8;
 }
 .my_page .team .photo{
     position: relative; float: left; width: 100%; top: 20px;left: 20px
 }
+.popup .team{
+    display: block;
+    height: 200px;;
+    background-color: #EDF0F8;
+    padding-top: 20px;
+}
+.popup .team .photo{
+    position: relative; float: left; width: 100%; top: 20px;left: 0px
+}
 
 .my_page .us_info{
     text-align: center;
     padding: -5px;
-    color: white;
+    /*color: white;*/
     font-size: 14px;
 }
 
@@ -511,7 +520,7 @@ body{
     text-align: center;
     margin-top: -10px;
     margin-bottom: -2px;
-    padding-top: 30px;
+    padding-top: 10px;
     padding-bottom: 30px;
     font-size: 9px;
 }
@@ -770,4 +779,9 @@ select{
 
 .show_more{
     display: none;
+}
+
+/*hack*/
+.ui-popup-container{
+    max-width:640px;
 }
