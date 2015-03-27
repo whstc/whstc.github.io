@@ -20,12 +20,6 @@ body{
     color: #ff0000;
 }
 
-.my_page .index a{
-    background-color: #767676;
-}
-.my_page .index a img{
-    margin-bottom: 1px;
-}
 
 /*导航 */
 .my_nav{
