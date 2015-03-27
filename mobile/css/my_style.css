@@ -147,12 +147,13 @@ body{
 
 /*加入我们*/
 .my_page .welcome_content{
-    background-color: white;
+    background-color: #6b6b6b   ;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
     font-size: 12px;
     margin-top: -2px;
+    color: #ffffff;
 }
 .my_page .welcome_content .welcome-name{
     font-size: 14px;
@@ -167,6 +168,7 @@ body{
 
 .share{
    margin-bottom: 20px;
+    margin-left: -40px;
 }
 .share span{
     padding-left: 20px;
@@ -784,4 +786,39 @@ select{
 /*hack*/
 .ui-popup-container{
     max-width:640px;
+}
+
+.my_page .us_email{
+    text-align: center;
+    width: 70%;
+    z-index: 100;
+    background-color: #000000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -20px;
+    margin-left: auto;
+    margin-right: auto;
+
+    display: block;
+
+    opacity: 0.75;
+
+}
+
+.my_page .welcome_content_content{
+    text-align: center;
+    font-size: 12px;
+}
+
+.my_page .welcome_content_xiwang{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.my_page .welcome_content_yaoqiu{
+    max-width: 300px;
+    margin-right: auto;
+    margin-left: auto;
 }

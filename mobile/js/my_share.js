@@ -148,16 +148,16 @@ $(".control").click(function(e){
 });
 
 $(".control_wenzi").click(function(e){
-    var a = $(e.currentTarget);
+    var a = $(e.currentTarget).children("img");
     if(a.hasClass( "dakai" )){
         a.removeClass("dakai").addClass("guanbi")
-        a.attr("src","./image/guanbi.png");
+        a.attr("src","./image/zhankai_more.png");
         $(".show_more").hide();
         $(".hide_more").show();
 
     }else{
         a.removeClass("guanbi").addClass("dakai")
-        a.attr("src","./image/dakai.png");
+        a.attr("src","./image/shouqi_more.png");
 
         $(".show_more").show();
         $(".hide_more").hide();
