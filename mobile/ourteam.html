@@ -9,12 +9,25 @@
     <link rel="stylesheet" href="./css/my_style.css">
 
     <link rel="stylesheet" href="./css/styles.css"/>
+    <!--<link rel="stylesheet" href="./css/easydialog.css" />-->
     <!--<link rel="stylesheet" href="./css/themes/default/jquery.mobile-1.4.5.min.css">-->
 
     <script type="text/javascript" src="./js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="./js/jquery.glide.min.js"></script>
     <!--<script src="./js/jquery.mobile-1.4.5.js"></script>-->
     <script type="text/javascript" src="./js/jquery.glide.min.js"></script>
+    <script type="text/javascript" src="./js/layer.m.js.css"></script>
+
+    <script src="./js/envato/prettify.js" type="text/javascript" ></script>
+    <script src="./js/envato/modernizr.min.js" type="text/javascript"></script>
+    <!--<script src="./js/envato/jquery.mousewheel.min.js" type="text/javascript"></script>-->
+    <!--<script src="./js/envato/jquery.hammer.min.js" type="text/javascript"></script>-->
+    <script src="./js/envato/bootstrap.min.js" type="text/javascript"></script>
+    <!--<script src="./js/envato/TweenMax.min.js" type="text/javascript"></script>-->
+    <!--<script src="./js/envato/plugins/ScrollToPlugin.min.js" type="text/javascript"></script>-->
+    <script src="./js/envato/main.min.js" type="text/javascript"></script>
+
+
 </head>
 <body onselectstart="return false" oncontextmenu="window.event.returnValue=false" onpaste="return false;" oncopy="return false;" oncut="return false;">
 <!-- 导航 -->
@@ -38,62 +51,59 @@
 
 
 
-<!--<div class="popup" data-role="popup" style="width: 100%;" id="popupParis" data-overlay-theme="b" data-theme="b" data-corners="false">-->
-    <!--<div class="team">-->
-        <!--<div class="content-wrapper">-->
-            <!--<div class="content_article">-->
-                <!--<img src="./image/ourteam.png">-->
-            <!--</div>-->
-        <!--</div>-->
-    <!--</div>-->
-<!--</div>-->
+<div  id="popupbox" style="display: none">
+    <div id="popup-div" style=" border:1px solid #d3d3d3; padding:5px; background:#fff; width:100%;">
+        <img src="./image/ourteam.png">
+    </div>
+
+</div>
 
 <div class="my_page">
         <div>
             <div class="team slider">
                 <div class="content-wrapper slides">
                     <div class="content_article content_article--fast slide">
-                        <img src="./image/ourteam.png">
+                        <img class="popupbutton" src="./image/ourteam.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/tim.png">
+                        <img class="photo popupbutton" src="./image/tim.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/maomao.png">
+                        <img class="photo popupbutton" src="./image/maomao.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/alice.png">
+                        <img class="photo popupbutton" src="./image/alice.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/jamie.png">
+                        <img class="photo popupbutton" src="./image/jamie.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/ting.png">
+                        <img class="photo popupbutton" src="./image/ting.png">
                     </div>
 
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/kiu.png">
+                        <img class="photo popupbutton" src="./image/kiu.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/tian.png">
+                        <img class="photo popupbutton" src="./image/tian.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/ju.png">
+                        <img class="photo popupbutton" src="./image/ju.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/siron.png">
+                        <img class="photo popupbutton" src="./image/siron.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/yijiao.png">
+                        <img class="photo popupbutton" src="./image/yijiao.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/xinyi.png">
+                        <img class="photo popupbutton" src="./image/xinyi.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/dong.png">
+                        <img class="photo popupbutton" src="./image/dong.png">
                     </div>
                     <div class="content_article content_article--fast slide">
-                        <img class="photo" src="./image/yajing.png">
+                        <img class="photo popupbutton" src="./image/yajing.png">
                     </div>
 
                 </div>
@@ -110,7 +120,7 @@
         </div>
 
         <div style="background-color: white;">
-            <img class="info_img" src="./image/hexintuandui1.png">
+            <img class="info_img" src="./image/hexintuandui1.jpg">
         </div>
 
         <div class="chanpinfuwu_info">
@@ -307,9 +317,8 @@
         </div>
     </div>
     </div>
+
 <script>
-
-
     var slides = $('.slides div');
 
     var glide = $('.slider').glide({
@@ -326,6 +335,27 @@
         }
     });
 
+//    $('.popupbutton').click(function(e){
+//        console.log(e.currentTarget)
+//        layer.open({
+//            content: '<img id="img1"  src="./image/ourteam.png">',
+//            style: 'background-color:#09C1FF; border:none;'
+//
+//        });
+//        setTimeout(function(){
+//            $("#img1").pinchzoomer();
+//
+//        },1000);
+//
+//    });
+
 </script>
+<!--<div class="container  divPad">-->
+    <!--<div class="row-fluid divPad text-center">-->
+
+        <!--<div id="responsive_example" class="imageHolder text-left"> <div style="position: relative; -webkit-user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); touch-action: none; height: 196px; width: 401px;"><div style="position:absolute: top:0px; left:0px; width:100%; height:100%;"><div style="position: absolute; width: 100%; height: 100%; overflow: hidden; -webkit-user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); touch-action: none;"><img style="position: absolute; max-width: none; display: block; visibility: inherit; opacity: 1; -webkit-user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); touch-action: none; transform-origin: 0px 0px 0px; top: 0px; left: 0px; height: 196px; width: 401px; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.002, 0, 0, 0, 1);" src="./ima"></div></div><div class="zoomInOn" style="-webkit-user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); touch-action: none; visibility: hidden;"></div><div class="zoomOutOff" style="-webkit-user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); touch-action: none; visibility: hidden;"></div></div> </div>-->
+    <!--</div>-->
+<!--</div>-->
+
 </body>
 </html>
