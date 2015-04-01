@@ -6,26 +6,26 @@
           name="description"/>
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
     <meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" name="viewport"/>
-    <link rel="stylesheet" href="./css/my_style.css">
+    <link rel="stylesheet" href="../css/my_style.css">
 
-    <script type="text/javascript" src="./js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
 </head>
 <body onselectstart="return false" oncontextmenu="window.event.returnValue=false" onpaste="return false;" oncopy="return false;" oncut="return false;">
 <!-- 导航 -->
 <div class="my_nav">
-    <a class="weixin" href="javascript:history.go(-1);">
-        <img src="./image/goback.png"/>
+    <a class="weixin" href="../index.html">
+        <img src="../image/home.png"/>
     </a>
 
     <div class="logo">
-        <a href="./index.html">
-            <img alt="dji" src="./image/logo.png"/>
+        <a href="../index.html">
+            <img alt="dji" src="../image/logo.png"/>
         </a>
     </div>
 
 
     <a class="account" href="./login.html">
-        <img  src="./image/account.png"/>
+        <img  src="../image/account.png"/>
     </a>
 </div>
 
@@ -77,7 +77,7 @@
             if(re.indexOf("false") != -1){
                 $("#info").removeClass("warning").addClass("error").html("您的用户名或密码错误，请重新登录！");
             }else{
-                window.location= "../user/backend/index.html";
+                window.location= "../../user/backend/index.html";
             }
         });
 
