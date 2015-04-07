@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/media.html" afterPath="$PROJECT_DIR$/mobile/media.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html" afterPath="$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html" afterPath="$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html" afterPath="$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/meitijieshao/yunduan.html" afterPath="$PROJECT_DIR$/mobile/meitijieshao/yunduan.html" />
     </list>
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="media.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="media.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/media.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45735028" vertical-offset="3598" max-vertical-offset="6556">
+            <state vertical-scroll-proportion="-8.129032" vertical-offset="3598" max-vertical-offset="6556">
               <caret line="175" column="82" selection-start-line="175" selection-start-column="82" selection-end-line="175" selection-end-column="82" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -103,11 +106,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yunduan.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="jiemengxinlixue.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4193548" vertical-offset="330" max-vertical-offset="3212">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qiyeyingxiangli.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.064516" vertical-offset="0" max-vertical-offset="3300">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xingfudeganwu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.064516" vertical-offset="0" max-vertical-offset="3212">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yunduan.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/yunduan.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.903226" vertical-offset="330" max-vertical-offset="3212">
-              <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.6787659" vertical-offset="0" max-vertical-offset="3212">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -181,17 +214,17 @@
         <option value="$PROJECT_DIR$/mobile/welcome.html" />
         <option value="$PROJECT_DIR$/mobile/aboutus.html" />
         <option value="$PROJECT_DIR$/mobile/wi-pro.html" />
-        <option value="$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html" />
-        <option value="$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html" />
-        <option value="$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html" />
         <option value="$PROJECT_DIR$/mobile/ai-robot.html" />
         <option value="$PROJECT_DIR$/mobile/csr.html" />
         <option value="$PROJECT_DIR$/mobile/wi-matt.html" />
         <option value="$PROJECT_DIR$/mobile/index.html" />
         <option value="$PROJECT_DIR$/mobile/css/my_style.css" />
         <option value="$PROJECT_DIR$/mobile/learnmore.html" />
-        <option value="$PROJECT_DIR$/mobile/meitijieshao/yunduan.html" />
         <option value="$PROJECT_DIR$/mobile/media.html" />
+        <option value="$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html" />
+        <option value="$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html" />
+        <option value="$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html" />
+        <option value="$PROJECT_DIR$/mobile/meitijieshao/yunduan.html" />
       </list>
     </option>
   </component>
@@ -442,7 +475,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27990618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27990618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -753,27 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.806452" vertical-offset="2794" max-vertical-offset="3212">
-          <caret line="138" column="63" selection-start-line="138" selection-start-column="63" selection-end-line="138" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.677419" vertical-offset="2948" max-vertical-offset="3300">
-          <caret line="142" column="63" selection-start-line="142" selection-start-column="63" selection-end-line="142" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.677419" vertical-offset="2860" max-vertical-offset="3212">
-          <caret line="138" column="63" selection-start-line="138" selection-start-column="63" selection-end-line="138" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/wi-pro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.387097" vertical-offset="5465" max-vertical-offset="5786">
@@ -863,22 +875,46 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/yunduan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.903226" vertical-offset="330" max-vertical-offset="3212">
-          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/media.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45735028" vertical-offset="3598" max-vertical-offset="6556">
+        <state vertical-scroll-proportion="-8.129032" vertical-offset="3598" max-vertical-offset="6556">
           <caret line="175" column="82" selection-start-line="175" selection-start-column="82" selection-end-line="175" selection-end-column="82" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/jiemengxinlixue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4193548" vertical-offset="330" max-vertical-offset="3212">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/qiyeyingxiangli.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.064516" vertical-offset="0" max-vertical-offset="3300">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/xingfudeganwu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.064516" vertical-offset="0" max-vertical-offset="3212">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/meitijieshao/yunduan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6787659" vertical-offset="0" max-vertical-offset="3212">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
