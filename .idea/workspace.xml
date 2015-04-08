@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="" />
+    <list default="true" id="90473f14-8cd7-47c2-b683-efac64946c3e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/wi-pro.html" afterPath="$PROJECT_DIR$/mobile/wi-pro.html" />
+    </list>
     <ignored path="displayitem.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,8 +69,8 @@
       <file leaf-file-name="wi-pro.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/wi-pro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3176043" vertical-offset="4708" max-vertical-offset="5786">
-              <caret line="247" column="21" selection-start-line="247" selection-start-column="21" selection-end-line="247" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.5589837" vertical-offset="484" max-vertical-offset="5786">
+              <caret line="36" column="97" selection-start-line="36" selection-start-column="97" selection-end-line="36" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -817,8 +819,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/wi-pro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3176043" vertical-offset="4708" max-vertical-offset="5786">
-          <caret line="247" column="21" selection-start-line="247" selection-start-column="21" selection-end-line="247" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.5589837" vertical-offset="484" max-vertical-offset="5786">
+          <caret line="36" column="97" selection-start-line="36" selection-start-column="97" selection-end-line="36" selection-end-column="97" />
           <folding />
         </state>
       </provider>
